@@ -1,0 +1,557 @@
+{
+  "date": "2026-11-26",
+  "products": [
+    {
+      "name": "Meowdoku!",
+      "platform": "App Store",
+      "region": "US",
+      "chart": "iPhone 免费游戏",
+      "rank": 1,
+      "category": "游戏",
+      "core_function": "逻辑益智",
+      "heat_evidence": "2026-11-26 榜单快照 #1",
+      "source_urls": [
+        "https://apps.apple.com/us/iphone/charts"
+      ],
+      "uncertainty": "单次排名；收入、买量和留存未知"
+    },
+    {
+      "name": "Block Out!",
+      "platform": "App Store",
+      "region": "US",
+      "chart": "iPhone 免费游戏",
+      "rank": 2,
+      "category": "游戏",
+      "core_function": "颜色方块分类",
+      "heat_evidence": "2026-11-26 榜单快照 #2",
+      "source_urls": [
+        "https://apps.apple.com/us/iphone/charts"
+      ],
+      "uncertainty": "单次排名；收入、买量和留存未知"
+    },
+    {
+      "name": "Tidy Room!",
+      "platform": "App Store",
+      "region": "US",
+      "chart": "iPhone 免费游戏",
+      "rank": 3,
+      "category": "游戏",
+      "core_function": "收纳解谜",
+      "heat_evidence": "2026-11-26 榜单快照 #3",
+      "source_urls": [
+        "https://apps.apple.com/us/iphone/charts"
+      ],
+      "uncertainty": "单次排名；收入、买量和留存未知"
+    },
+    {
+      "name": "Bus Traffic Fever!",
+      "platform": "App Store",
+      "region": "US",
+      "chart": "iPhone 免费游戏",
+      "rank": 4,
+      "category": "游戏",
+      "core_function": "车辆颜色调度",
+      "heat_evidence": "2026-11-26 榜单快照 #4",
+      "source_urls": [
+        "https://apps.apple.com/us/iphone/charts"
+      ],
+      "uncertainty": "单次排名；收入、买量和留存未知"
+    },
+    {
+      "name": "Magic Sort!",
+      "platform": "App Store",
+      "region": "US",
+      "chart": "iPhone 免费游戏",
+      "rank": 5,
+      "category": "游戏",
+      "core_function": "液体分类",
+      "heat_evidence": "2026-11-26 榜单快照 #5",
+      "source_urls": [
+        "https://apps.apple.com/us/iphone/charts"
+      ],
+      "uncertainty": "单次排名；收入、买量和留存未知"
+    },
+    {
+      "name": "Jelly Busters",
+      "platform": "App Store",
+      "region": "US",
+      "chart": "iPhone 免费游戏",
+      "rank": 6,
+      "category": "游戏",
+      "core_function": "方块消除",
+      "heat_evidence": "2026-11-26 榜单快照 #6",
+      "source_urls": [
+        "https://apps.apple.com/us/iphone/charts"
+      ],
+      "uncertainty": "单次排名；收入、买量和留存未知"
+    },
+    {
+      "name": "Block Blast!",
+      "platform": "App Store",
+      "region": "US",
+      "chart": "iPhone 免费游戏",
+      "rank": 12,
+      "category": "游戏",
+      "core_function": "方块益智",
+      "heat_evidence": "2026-11-26 榜单快照 #12",
+      "source_urls": [
+        "https://apps.apple.com/us/iphone/charts"
+      ],
+      "uncertainty": "单次排名；收入、买量和留存未知"
+    },
+    {
+      "name": "Amaze GO!",
+      "platform": "App Store",
+      "region": "US",
+      "chart": "iPhone 免费游戏",
+      "rank": 23,
+      "category": "游戏",
+      "core_function": "箭头逃脱",
+      "heat_evidence": "2026-11-26 榜单快照 #23",
+      "source_urls": [
+        "https://apps.apple.com/us/iphone/charts"
+      ],
+      "uncertainty": "单次排名；收入、买量和留存未知"
+    },
+    {
+      "name": "红果漫剧",
+      "platform": "App Store",
+      "region": "CN",
+      "chart": "iPhone 免费应用",
+      "rank": 2,
+      "category": "应用",
+      "core_function": "漫剧",
+      "heat_evidence": "2026-11-26 榜单快照 #2",
+      "source_urls": [
+        "https://apps.apple.com/cn/iphone/charts"
+      ],
+      "uncertainty": "单次排名；收入、买量和留存未知"
+    },
+    {
+      "name": "红果短剧",
+      "platform": "App Store",
+      "region": "CN",
+      "chart": "iPhone 免费应用",
+      "rank": 3,
+      "category": "应用",
+      "core_function": "短剧",
+      "heat_evidence": "2026-11-26 榜单快照 #3",
+      "source_urls": [
+        "https://apps.apple.com/cn/iphone/charts"
+      ],
+      "uncertainty": "单次排名；收入、买量和留存未知"
+    },
+    {
+      "name": "豆包",
+      "platform": "App Store",
+      "region": "CN",
+      "chart": "iPhone 免费应用",
+      "rank": 4,
+      "category": "应用",
+      "core_function": "AI 助手",
+      "heat_evidence": "2026-11-26 榜单快照 #4",
+      "source_urls": [
+        "https://apps.apple.com/cn/iphone/charts"
+      ],
+      "uncertainty": "单次排名；收入、买量和留存未知"
+    },
+    {
+      "name": "WorkBuddy",
+      "platform": "App Store",
+      "region": "CN",
+      "chart": "iPhone 免费应用",
+      "rank": 5,
+      "category": "应用",
+      "core_function": "AI 办公",
+      "heat_evidence": "2026-11-26 榜单快照 #5",
+      "source_urls": [
+        "https://apps.apple.com/cn/iphone/charts"
+      ],
+      "uncertainty": "单次排名；收入、买量和留存未知"
+    },
+    {
+      "name": "我在古代有座城",
+      "platform": "App Store",
+      "region": "CN",
+      "chart": "iPhone 免费游戏",
+      "rank": 5,
+      "category": "游戏",
+      "core_function": "经营",
+      "heat_evidence": "2026-11-26 榜单快照 #5",
+      "source_urls": [
+        "https://apps.apple.com/cn/iphone/charts"
+      ],
+      "uncertainty": "单次排名；收入、买量和留存未知"
+    },
+    {
+      "name": "超级整理师",
+      "platform": "App Store",
+      "region": "CN",
+      "chart": "iPhone 免费游戏",
+      "rank": 12,
+      "category": "游戏",
+      "core_function": "隐藏物品",
+      "heat_evidence": "2026-11-26 榜单快照 #12",
+      "source_urls": [
+        "https://apps.apple.com/cn/iphone/charts"
+      ],
+      "uncertainty": "单次排名；收入、买量和留存未知"
+    },
+    {
+      "name": "Tool Toss",
+      "platform": "App Store",
+      "region": "CN",
+      "chart": "iPhone 免费游戏",
+      "rank": 13,
+      "category": "游戏",
+      "core_function": "旋转目标投掷",
+      "heat_evidence": "2026-11-26 榜单快照 #13",
+      "source_urls": [
+        "https://apps.apple.com/cn/iphone/charts"
+      ],
+      "uncertainty": "单次排名；收入、买量和留存未知"
+    },
+    {
+      "name": "TikTok Pro",
+      "platform": "App Store",
+      "region": "US",
+      "chart": "iPhone 免费应用",
+      "rank": 1,
+      "category": "应用",
+      "core_function": "活动内容",
+      "heat_evidence": "2026-11-26 榜单快照 #1",
+      "source_urls": [
+        "https://apps.apple.com/us/iphone/charts"
+      ],
+      "uncertainty": "单次排名；收入、买量和留存未知"
+    },
+    {
+      "name": "Muse from Meta",
+      "platform": "App Store",
+      "region": "US",
+      "chart": "iPhone 免费应用",
+      "rank": 2,
+      "category": "应用",
+      "core_function": "AI 助手",
+      "heat_evidence": "2026-11-26 榜单快照 #2",
+      "source_urls": [
+        "https://apps.apple.com/us/iphone/charts"
+      ],
+      "uncertainty": "单次排名；收入、买量和留存未知"
+    },
+    {
+      "name": "ChatGPT",
+      "platform": "App Store",
+      "region": "US",
+      "chart": "iPhone 免费应用",
+      "rank": 3,
+      "category": "应用",
+      "core_function": "AI 助手",
+      "heat_evidence": "2026-11-26 榜单快照 #3",
+      "source_urls": [
+        "https://apps.apple.com/us/iphone/charts"
+      ],
+      "uncertainty": "单次排名；收入、买量和留存未知"
+    },
+    {
+      "name": "PineDrama",
+      "platform": "App Store",
+      "region": "US",
+      "chart": "iPhone 免费应用",
+      "rank": 6,
+      "category": "应用",
+      "core_function": "短剧",
+      "heat_evidence": "2026-11-26 榜单快照 #6",
+      "source_urls": [
+        "https://apps.apple.com/us/iphone/charts"
+      ],
+      "uncertainty": "单次排名；收入、买量和留存未知"
+    },
+    {
+      "name": "Muse from Meta",
+      "platform": "Google Play",
+      "region": "US",
+      "chart": "免费综合",
+      "rank": 1,
+      "category": "应用",
+      "core_function": "AI 助手",
+      "heat_evidence": "2026-11-26 榜单快照 #1",
+      "source_urls": [
+        "https://www.appbrain.com/stats/google-play-rankings"
+      ],
+      "uncertainty": "单次排名；收入、买量和留存未知"
+    },
+    {
+      "name": "TikTok Pro",
+      "platform": "Google Play",
+      "region": "US",
+      "chart": "免费综合",
+      "rank": 2,
+      "category": "应用",
+      "core_function": "活动内容",
+      "heat_evidence": "2026-11-26 榜单快照 #2",
+      "source_urls": [
+        "https://www.appbrain.com/stats/google-play-rankings"
+      ],
+      "uncertainty": "单次排名；收入、买量和留存未知"
+    },
+    {
+      "name": "ChatGPT",
+      "platform": "Google Play",
+      "region": "US",
+      "chart": "免费综合",
+      "rank": 3,
+      "category": "应用",
+      "core_function": "AI 助手",
+      "heat_evidence": "2026-11-26 榜单快照 #3",
+      "source_urls": [
+        "https://www.appbrain.com/stats/google-play-rankings"
+      ],
+      "uncertainty": "单次排名；收入、买量和留存未知"
+    },
+    {
+      "name": "Settings Home",
+      "platform": "Google Play",
+      "region": "US",
+      "chart": "免费综合",
+      "rank": 4,
+      "category": "应用",
+      "core_function": "工具",
+      "heat_evidence": "2026-11-26 榜单快照 #4",
+      "source_urls": [
+        "https://www.appbrain.com/stats/google-play-rankings"
+      ],
+      "uncertainty": "单次排名；收入、买量和留存未知"
+    },
+    {
+      "name": "Playout",
+      "platform": "Google Play",
+      "region": "US",
+      "chart": "免费综合",
+      "rank": 7,
+      "category": "应用",
+      "core_function": "奖励类应用",
+      "heat_evidence": "2026-11-26 榜单快照 #7",
+      "source_urls": [
+        "https://www.appbrain.com/stats/google-play-rankings"
+      ],
+      "uncertainty": "单次排名；收入、买量和留存未知"
+    },
+    {
+      "name": "HarmonyOS",
+      "platform": "HarmonyOS",
+      "category": "生态",
+      "core_function": "跨设备协同与系统能力",
+      "heat_evidence": "华为11月24日公布 HarmonyOS 5/6/7 设备超过1亿，应用与服务超过46万",
+      "source_urls": [
+        "https://www.huawei.com/cn/news/2026/11/harmonyos-system"
+      ],
+      "uncertainty": "不是应用榜单；实时排名缺失"
+    },
+    {
+      "name": "Puntokus",
+      "platform": "Reddit",
+      "category": "开发者自荐",
+      "core_function": "点阵逻辑谜题",
+      "heat_evidence": "11月月度自荐帖；作者称1400+谜题",
+      "source_urls": [
+        "https://www.reddit.com/r/iosapps/comments/1xjt21o/the_app_shelf_november_2026/",
+        "https://apps.apple.com/app/id6820564574"
+      ],
+      "uncertainty": "社区或技术信号不等同收入；商业验证待做",
+      "monetization": "作者称免费，主题$1.99"
+    },
+    {
+      "name": "bloop: nutrition",
+      "platform": "Reddit",
+      "category": "开发者自荐",
+      "core_function": "少量营养指标追踪，默认不突出热量",
+      "heat_evidence": "11月月度自荐帖；非热门排名",
+      "source_urls": [
+        "https://www.reddit.com/r/iosapps/comments/1xjt21o/the_app_shelf_november_2026/",
+        "https://apps.apple.com/us/app/bloop-nutrition/id6822119822"
+      ],
+      "uncertainty": "社区或技术信号不等同收入；商业验证待做",
+      "monetization": "作者称$2.99买断"
+    },
+    {
+      "name": "DualCam",
+      "platform": "Reddit",
+      "category": "开发者自荐",
+      "core_function": "前后摄像头同步录像",
+      "heat_evidence": "11月月度自荐帖；作者描述",
+      "source_urls": [
+        "https://www.reddit.com/r/iosapps/comments/1xjt21o/the_app_shelf_november_2026/",
+        "https://apps.apple.com/app/id6805845406"
+      ],
+      "uncertainty": "社区或技术信号不等同收入；商业验证待做",
+      "monetization": "作者称免费下载无广告"
+    },
+    {
+      "name": "MyChoreBoard",
+      "platform": "Reddit",
+      "category": "社区案例",
+      "core_function": "家庭家务与奖励共享",
+      "heat_evidence": "约3个月前作者自述5000+家庭账号、40万+完成任务；非审计数据",
+      "source_urls": [
+        "https://www.reddit.com/r/iosapps/comments/1vj7df0/i_built_mychoreboard_a_free_chore_chart_for_kids/"
+      ],
+      "uncertainty": "社区或技术信号不等同收入；商业验证待做",
+      "monetization": "作者称免费无广告",
+      "gameplay": "评论需求摘要：共享旧平板展示家务；跨家庭同步积分；登录异常；搜索获客实验"
+    },
+    {
+      "name": "Synth Patch Hero",
+      "platform": "Hacker News",
+      "category": "开发者新品",
+      "core_function": "合成器相关项目",
+      "heat_evidence": "Show HN 快照69分、12评论；移动适配未知",
+      "source_urls": [
+        "https://news.ycombinator.com/item?id=50623232"
+      ],
+      "uncertainty": "社区或技术信号不等同收入；商业验证待做"
+    },
+    {
+      "name": "Voice Isolator",
+      "platform": "Hugging Face",
+      "category": "AI 模型",
+      "core_function": "语音降噪与分离",
+      "heat_evidence": "Trending #3；模型页921 likes",
+      "source_urls": [
+        "https://huggingface.co/models?sort=trending",
+        "https://huggingface.co/inworld/voice-isolator"
+      ],
+      "uncertainty": "社区或技术信号不等同收入；商业验证待做",
+      "monetization": "Apache-2.0；实际端侧性能待测"
+    },
+    {
+      "name": "DepthPro2",
+      "platform": "Hugging Face",
+      "category": "AI 模型",
+      "core_function": "深度估计",
+      "heat_evidence": "Trending #8",
+      "source_urls": [
+        "https://huggingface.co/models?sort=trending",
+        "https://huggingface.co/apple/DepthPro2"
+      ],
+      "uncertainty": "许可与端侧性能未复核，不建议直接商用"
+    },
+    {
+      "name": "OCRia-nano-1",
+      "platform": "Hugging Face",
+      "category": "AI 模型",
+      "core_function": "图像文字识别",
+      "heat_evidence": "Trending #9",
+      "source_urls": [
+        "https://huggingface.co/models?sort=trending",
+        "https://huggingface.co/llamaindex/OCRia-nano-1"
+      ],
+      "uncertainty": "许可未复核，不建议直接商用"
+    },
+    {
+      "name": "Hub",
+      "platform": "Product Hunt",
+      "category": "新品",
+      "core_function": "多编码代理协调",
+      "heat_evidence": "当日榜单#1；169分94评论，动态快照",
+      "source_urls": [
+        "https://www.producthunt.com/leaderboard/daily/2026/11/26",
+        "https://www.producthunt.com/products/hub-20"
+      ],
+      "uncertainty": "实验性权限模式存在风险；非移动应用"
+    },
+    {
+      "name": "Pax",
+      "platform": "Product Hunt",
+      "category": "新品",
+      "core_function": "插件化终端编码代理",
+      "heat_evidence": "当日榜单#4；85分3评论",
+      "source_urls": [
+        "https://www.producthunt.com/leaderboard/daily/2026/11/26"
+      ],
+      "uncertainty": "社区或技术信号不等同收入；商业验证待做"
+    },
+    {
+      "name": "Bifura",
+      "platform": "Product Hunt",
+      "category": "新品",
+      "core_function": "AI 爬虫视角网站检测",
+      "heat_evidence": "当日榜单#5；82分9评论",
+      "source_urls": [
+        "https://www.producthunt.com/leaderboard/daily/2026/11/26"
+      ],
+      "uncertainty": "社区或技术信号不等同收入；商业验证待做"
+    },
+    {
+      "name": "治愈收纳解谜",
+      "platform": "Product Hunter",
+      "category": "创业机会",
+      "core_function": "10关，物品遮挡与有限托盘；Cocos Creator 3D，先做原创素材",
+      "heat_evidence": "Tidy Room! 美国免费游戏第3；同榜多个分类游戏",
+      "source_urls": [
+        "https://apps.apple.com/us/iphone/charts",
+        "https://apps.apple.com/us/app/tidy-room/id6831317859"
+      ],
+      "monetization": "假设：奖励广告与去广告买断",
+      "uncertainty": "建议验证：30名测试者，首关完成≥80%、10关完成≥40%；未达则改交互或停扩关。不是行业基准。买量、留存、收入未知。",
+      "opportunity_score": {
+        "total": 72,
+        "components": [
+          21,
+          13,
+          11,
+          12,
+          6,
+          9
+        ]
+      }
+    },
+    {
+      "name": "本地录音降噪",
+      "platform": "Product Hunter",
+      "category": "创业机会",
+      "core_function": "导入录音、降噪试听、导出；先用原生音频与模型运行时测试",
+      "heat_evidence": "Voice Isolator Trending #3，Apache-2.0；技术热度非需求证明",
+      "source_urls": [
+        "https://huggingface.co/models?sort=trending",
+        "https://huggingface.co/inworld/voice-isolator"
+      ],
+      "monetization": "假设：高级导出买断",
+      "uncertainty": "20个录音盲测，至少14个偏好处理版，目标设备实时系数≤1；失败则不做实时版或停止。竞品付费转化未知。",
+      "opportunity_score": {
+        "total": 65,
+        "components": [
+          14,
+          12,
+          11,
+          12,
+          7,
+          9
+        ]
+      }
+    },
+    {
+      "name": "家庭共享任务看板",
+      "platform": "Product Hunter",
+      "category": "创业机会",
+      "core_function": "家庭任务、积分、旧平板共享看板；Flutter/PWA，最小同步服务",
+      "heat_evidence": "MyChoreBoard历史作者自述使用量；评论明确共享屏需求",
+      "source_urls": [
+        "https://www.reddit.com/r/iosapps/comments/1vj7df0/i_built_mychoreboard_a_free_chore_chart_for_kids/"
+      ],
+      "monetization": "假设：家庭高级功能买断或订阅；免费竞品是风险",
+      "uncertainty": "招募10个家庭，7日后至少5个仍使用且3个表示愿付费；否则暂缓。儿童隐私与同步成本待验证。",
+      "opportunity_score": {
+        "total": 64,
+        "components": [
+          19,
+          8,
+          10,
+          10,
+          8,
+          9
+        ]
+      }
+    }
+  ]
+}
