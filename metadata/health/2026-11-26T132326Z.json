@@ -1,0 +1,163 @@
+{
+  "per_platform": {
+    "App Store": {
+      "total": 19,
+      "logo_accessible": {
+        "count": 9,
+        "total": 19,
+        "percent": 47.4,
+        "target": 95,
+        "pass": false
+      },
+      "screenshots_accessible": {
+        "count": 9,
+        "total": 19,
+        "percent": 47.4,
+        "target": 80,
+        "pass": false
+      },
+      "developer": {
+        "count": 9,
+        "total": 19,
+        "percent": 47.4,
+        "target": 95,
+        "pass": false
+      },
+      "store_url": {
+        "count": 9,
+        "total": 19,
+        "percent": 47.4,
+        "target": 95,
+        "pass": false
+      }
+    },
+    "Google Play": {
+      "total": 5,
+      "logo_accessible": {
+        "count": 0,
+        "total": 5,
+        "percent": 0.0,
+        "target": 95,
+        "pass": false
+      },
+      "screenshots_accessible": {
+        "count": 0,
+        "total": 5,
+        "percent": 0.0,
+        "target": 80,
+        "pass": false
+      },
+      "developer": {
+        "count": 0,
+        "total": 5,
+        "percent": 0.0,
+        "target": 95,
+        "pass": false
+      },
+      "store_url": {
+        "count": 0,
+        "total": 5,
+        "percent": 0.0,
+        "target": 95,
+        "pass": false
+      }
+    },
+    "HarmonyOS": {
+      "total": 57,
+      "logo_accessible": {
+        "count": 20,
+        "total": 57,
+        "percent": 35.1,
+        "target": 95,
+        "pass": false
+      },
+      "screenshots_accessible": {
+        "count": 19,
+        "total": 57,
+        "percent": 33.3,
+        "target": 80,
+        "pass": false
+      },
+      "developer": {
+        "count": 20,
+        "total": 57,
+        "percent": 35.1,
+        "target": 95,
+        "pass": false
+      },
+      "store_url": {
+        "count": 20,
+        "total": 57,
+        "percent": 35.1,
+        "target": 95,
+        "pass": false
+      }
+    }
+  },
+  "checked_at": "2026-11-26T13:23:26.669923+00:00",
+  "report_date": "2026-11-26",
+  "snapshot_at": null,
+  "snapshot_current_utc_day": false,
+  "source_status": {},
+  "metrics": {
+    "source_success": {
+      "count": 0,
+      "total": 0,
+      "percent": null,
+      "target": 85,
+      "pass": null
+    },
+    "logo": {
+      "count": 29,
+      "total": 81,
+      "percent": 35.8,
+      "target": 95,
+      "pass": false
+    },
+    "logo_accessible": {
+      "count": 29,
+      "total": 81,
+      "percent": 35.8,
+      "target": 95,
+      "pass": false
+    },
+    "screenshots": {
+      "count": 29,
+      "total": 81,
+      "percent": 35.8,
+      "target": 80,
+      "pass": false
+    },
+    "screenshots_accessible": {
+      "count": 28,
+      "total": 81,
+      "percent": 34.6,
+      "target": 80,
+      "pass": false
+    },
+    "developer": {
+      "count": 29,
+      "total": 81,
+      "percent": 35.8,
+      "target": 95,
+      "pass": false
+    },
+    "store_url": {
+      "count": 29,
+      "total": 81,
+      "percent": 35.8,
+      "target": 95,
+      "pass": false
+    }
+  },
+  "rich_profiles": 2,
+  "rich_target": 20,
+  "quality": 85,
+  "platform_counts": {
+    "App Store": 19,
+    "Google Play": 5,
+    "HarmonyOS": 57
+  },
+  "image_check_scope": "Official CDN URLs; first three screenshots per product; at least one reachable screenshot counts. Other hosts are unverified.",
+  "status": "needs_attention"
+}
