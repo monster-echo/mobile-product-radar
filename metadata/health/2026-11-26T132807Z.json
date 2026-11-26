@@ -1,0 +1,216 @@
+{
+  "per_platform": {
+    "App Store": {
+      "total": 19,
+      "logo_accessible": {
+        "count": 9,
+        "total": 19,
+        "percent": 47.4,
+        "target": 95,
+        "pass": false
+      },
+      "screenshots_accessible": {
+        "count": 9,
+        "total": 19,
+        "percent": 47.4,
+        "target": 80,
+        "pass": false
+      },
+      "developer": {
+        "count": 9,
+        "total": 19,
+        "percent": 47.4,
+        "target": 95,
+        "pass": false
+      },
+      "store_url": {
+        "count": 9,
+        "total": 19,
+        "percent": 47.4,
+        "target": 95,
+        "pass": false
+      }
+    },
+    "Google Play": {
+      "total": 5,
+      "logo_accessible": {
+        "count": 0,
+        "total": 5,
+        "percent": 0.0,
+        "target": 95,
+        "pass": false
+      },
+      "screenshots_accessible": {
+        "count": 0,
+        "total": 5,
+        "percent": 0.0,
+        "target": 80,
+        "pass": false
+      },
+      "developer": {
+        "count": 0,
+        "total": 5,
+        "percent": 0.0,
+        "target": 95,
+        "pass": false
+      },
+      "store_url": {
+        "count": 0,
+        "total": 5,
+        "percent": 0.0,
+        "target": 95,
+        "pass": false
+      }
+    },
+    "HarmonyOS": {
+      "total": 57,
+      "logo_accessible": {
+        "count": 40,
+        "total": 57,
+        "percent": 70.2,
+        "target": 95,
+        "pass": false
+      },
+      "screenshots_accessible": {
+        "count": 39,
+        "total": 57,
+        "percent": 68.4,
+        "target": 80,
+        "pass": false
+      },
+      "developer": {
+        "count": 40,
+        "total": 57,
+        "percent": 70.2,
+        "target": 95,
+        "pass": false
+      },
+      "store_url": {
+        "count": 40,
+        "total": 57,
+        "percent": 70.2,
+        "target": 95,
+        "pass": false
+      }
+    }
+  },
+  "checked_at": "2026-11-26T13:28:07.955424+00:00",
+  "report_date": "2026-11-26",
+  "snapshot_at": "2026-11-26T13:23:47.860893+00:00",
+  "snapshot_current_utc_day": true,
+  "source_status": {
+    "apple_us_apps": {
+      "status": "ok",
+      "records": 50
+    },
+    "apple_us_games": {
+      "status": "unavailable",
+      "records": 0
+    },
+    "apple_cn_apps": {
+      "status": "unavailable",
+      "records": 0
+    },
+    "apple_cn_games": {
+      "status": "unavailable",
+      "records": 0
+    },
+    "hf_models": {
+      "status": "ok",
+      "records": 30
+    },
+    "hf_spaces": {
+      "status": "ok",
+      "records": 30
+    },
+    "hackernews": {
+      "status": "ok",
+      "records": 30
+    },
+    "harmony": {
+      "status": "ok",
+      "records": 67
+    },
+    "android": {
+      "status": "ok",
+      "records": 50
+    },
+    "reddit_iosapps": {
+      "status": "unavailable",
+      "records": 0
+    },
+    "reddit_androidapps": {
+      "status": "unavailable",
+      "records": 0
+    },
+    "reddit_SideProject": {
+      "status": "unavailable",
+      "records": 0
+    },
+    "reddit_IndieDev": {
+      "status": "unavailable",
+      "records": 0
+    }
+  },
+  "metrics": {
+    "source_success": {
+      "count": 6,
+      "total": 13,
+      "percent": 46.2,
+      "target": 85,
+      "pass": false
+    },
+    "logo": {
+      "count": 49,
+      "total": 81,
+      "percent": 60.5,
+      "target": 95,
+      "pass": false
+    },
+    "logo_accessible": {
+      "count": 49,
+      "total": 81,
+      "percent": 60.5,
+      "target": 95,
+      "pass": false
+    },
+    "screenshots": {
+      "count": 49,
+      "total": 81,
+      "percent": 60.5,
+      "target": 80,
+      "pass": false
+    },
+    "screenshots_accessible": {
+      "count": 48,
+      "total": 81,
+      "percent": 59.3,
+      "target": 80,
+      "pass": false
+    },
+    "developer": {
+      "count": 49,
+      "total": 81,
+      "percent": 60.5,
+      "target": 95,
+      "pass": false
+    },
+    "store_url": {
+      "count": 49,
+      "total": 81,
+      "percent": 60.5,
+      "target": 95,
+      "pass": false
+    }
+  },
+  "rich_profiles": 5,
+  "rich_target": 20,
+  "quality": 85,
+  "platform_counts": {
+    "App Store": 19,
+    "Google Play": 5,
+    "HarmonyOS": 57
+  },
+  "image_check_scope": "Official CDN URLs; first three screenshots per product; at least one reachable screenshot counts. Other hosts are unverified.",
+  "status": "needs_attention"
+}
