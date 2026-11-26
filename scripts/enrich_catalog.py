@@ -43,14 +43,17 @@ def android(p):
     url="https://play.google.com/store/apps/details?id="+U.quote(pid)
     return {"developer":x.get("developer"),"icon_url":x.get("icon"),"screenshots":x.get("screenshots",[]),"store_url":url,"release_date":x.get("released"),"updated_at":datetime.fromtimestamp(x["updated"],timezone.utc).isoformat() if x.get("updated") else None,"version":x.get("version"),"rating":x.get("score"),"rating_count":x.get("ratings"),"store_price":x.get("price"),"detail_source_urls":[url],"metadata_id":"android:"+pid}
 class Ark(HTMLParser):
-    def __init__(self):super().__init__();self.links=[];self.meta={};self.active=None
+    def __init__(self):super().__init__();self.links=[];self.meta={};self.active=None;self.images=[];self.text=[];self.store=None
     def handle_starttag(self,tag,attrs):
         a=dict(attrs)
+        if tag=="img":self.images.append((a.get("alt",""),a.get("src",""),a.get("data-src","")))
+        if tag=="a" and U.urlparse(a.get("href","")).hostname=="appgallery.huawei.com":self.store=a["href"]
         if tag=="a" and re.fullmatch(r"/apps/[\w.%-]+/?",a.get("href","")):self.active=[a["href"],""]
         if tag=="meta":
             k=a.get("property") or a.get("name")
             if k:self.meta[k]=a.get("content","")
     def handle_data(self,d):
+        if d.strip():self.text.append(d.strip())
         if self.active:self.active[1]+=d
     def handle_endtag(self,t):
         if t=="a" and self.active:self.links.append(self.active);self.active=None
@@ -65,7 +68,17 @@ def harmony(p,index):
     # Do not classify it as icon or screenshot without explicit source semantics.
     title=parser.meta.get("og:title","")
     if title and norm(p["name"]) not in norm(title):return {}
-    return {"detail_source_urls":[url],"metadata_id":"harmony:"+url.rstrip("/").split("/")[-1],"detail_status":"partial"}
+    def field(label):
+        for i,t in enumerate(parser.text):
+            if t==label and i+1<len(parser.text):return parser.text[i+1]
+        return None
+    icon=None; shots=[]
+    for alt,src,lazy in parser.images:
+        image=lazy or src
+        if not https(image) or U.urlparse(image).hostname not in ("appimg-drcn.dbankcdn.com","appimg-dra.dbankcdn.com","appimg-dre.dbankcdn.com"):continue
+        if norm(alt)==norm(p["name"]):icon=image
+        elif norm(p["name"]) in norm(alt) and "截图" in alt:shots.append(image)
+    return {"detail_source_urls":[url],"metadata_id":"harmony:"+url.rstrip("/").split("/")[-1],"detail_status":"partial","developer":field("开发者"),"icon_url":icon,"screenshots":list(dict.fromkeys(shots)),"store_url":parser.store,"release_date":field("上架时间"),"updated_at":field("更新时间"),"version":field("版本"),"store_price":field("价格")}
 def completeness(p):
     n=0
     if https(p.get("icon_url")):n+=5
@@ -84,10 +97,10 @@ def completeness(p):
     return n
 def main():
     m=json.loads(CAT.read_text()); index=Ark()
-    try:index.feed(get("https://fangzhou.club/apps/"))
+    try:index.feed(get("https://fangzhou.club/"))
     except Exception as e:print("HarmonyOS index unavailable:",type(e).__name__)
     cache={}; attempted=0; successes=0
-    for report in reversed(m["reports"]):
+    for report in sorted(m["reports"],key=lambda r:r["date"],reverse=True):
         for p in report["products"]:
             platform=p.get("platform")
             apple_link=any(isinstance(u,str) and "apps.apple.com/" in u and re.search(r"/id\d+",u) for u in p.get("source_urls",[]))
