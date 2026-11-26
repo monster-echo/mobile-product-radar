@@ -32,10 +32,25 @@ def harmony():
     if not rows:raise ValueError("No identifiable application links")
     return list({x["source_url"]:x for x in rows}.values())
 def android():
-    from google_play_scraper import collection
-    # Unsupported library versions must fail explicitly rather than invent rankings.
-    rows=collection(collection="TOP_FREE",category="APPLICATION",lang="en",country="us",results=50)
-    return [{"name":x["title"],"product_id":"android:"+x["appId"],"store_url":"https://play.google.com/store/apps/details?id="+x["appId"],"source_url":"https://play.google.com/store/apps/top","signal":"collection order; rank not asserted"} for x in rows]
+    from html.parser import HTMLParser
+    url="https://www.appbrain.com/stats/google-play-rankings/top_free/application/us"
+    class Links(HTMLParser):
+        def __init__(self):super().__init__();self.current=None;self.rows=[]
+        def handle_starttag(self,tag,attrs):
+            if tag=="a":
+                href=dict(attrs).get("href","")
+                m=re.search(r"/app/[^/]+/([a-zA-Z0-9_.]+)$",href)
+                if m:self.current=[m.group(1),""]
+        def handle_data(self,d):
+            if self.current:self.current[1]+=d
+        def handle_endtag(self,tag):
+            if tag=="a" and self.current:
+                pid,title=self.current;self.current=None
+                if title.strip():self.rows.append({"name":title.strip(),"product_id":"android:"+pid,"store_url":"https://play.google.com/store/apps/details?id="+pid,"source_url":url,"signal":"AppBrain chart link; rank not asserted"})
+    p=Links();p.feed(get(url))
+    rows=list({x["product_id"]:x for x in p.rows}.values())[:50]
+    if not rows:raise ValueError("No identifiable chart links")
+    return rows
 def main():
     tasks={**{f"apple_{r}_{k}":lambda r=r,k=k:apple(r,k) for r in ("us","cn") for k in ("apps","games")},"hf_models":lambda:hf("models"),"hf_spaces":lambda:hf("spaces"),"hackernews":hn,"harmony":harmony,"android":android,**{f"reddit_{s}":lambda s=s:reddit(s) for s in ("iosapps","androidapps","SideProject","IndieDev")}}
     result={"date":DAY,"observed_at":NOW,"status":"unreviewed_observations","sources":{}}
