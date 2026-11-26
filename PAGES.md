@@ -17,36 +17,17 @@ quality/YYYY-MM-DD.json：date、total、scores（accuracy、coverage、business
 
 本地构建：python scripts/build_pages.py，然后 python -m http.server --directory _site 8000。
 
-## 工作流
+## 定时采集与部署
 
-将下列内容保存为 .github/workflows/pages.yml：
+工作流位于 .github/workflows/pages.yml。每日 UTC 13:17（北京时间21:17；洛杉矶冬令时05:17、夏令时06:17），也可手动运行。main 的普通内容提交触发构建；GitHub 调度可能延迟。GitHub Actions 使用仓库 GITHUB_TOKEN 写入公开快照，不需要用户提供密钥。
 
-```yaml
-name: Deploy Pages
-on:
-  push:
-    branches: [main]
-  workflow_dispatch:
-permissions:
-  contents: read
-  pages: write
-  id-token: write
-concurrency:
-  group: pages
-  cancel-in-progress: true
-jobs:
-  deploy:
-    runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    steps:
-      - uses: actions/checkout@v4
-      - uses: actions/configure-pages@v5
-      - run: python3 scripts/build_pages.py
-      - uses: actions/upload-pages-artifact@v3
-        with:
-          path: _site
-      - uses: actions/deploy-pages@v4
-        id: deployment
-```
+- scripts/collect_daily.py：Apple 榜单、Hugging Face、Show HN、Reddit、AppBrain、方舟网公开观察，失败逐源记录。Product Hunt 仍由编辑任务补查。目录链接不当作榜单。
+- scripts/enrich_catalog.py：对已审核报告中的产品，查询 Apple、Google Play、方舟网详情；不确定匹配拒绝。当前版本和评分与历史榜单日期分离。图片只使用标识清晰的 HTTPS 来源地址，不下载或复制评论全文。
+- scripts/archive_metadata.py：校验目录及最低质量门槛，保存本次匹配的资料记录。
+- snapshots/YYYY-MM-DD/*.json：未审核公开观察，不能当作已发布日报。
+- metadata/YYYY-MM-DD/*.json：带观测时间的资料快照。
+- daily/、data/、quality/：仍由编辑任务负责，按 QUALITY.md 门禁发布。
+
+扩展产品字段：developer, icon_url, screenshots, store_url, release_date, updated_at, version, rating, rating_count, description, features, review_insights, differentiation, completeness_score, detail_source_urls, detail_status。历史数据不得以最新元数据覆盖。当前观测字段包括 live_rating, live_rating_count, live_version, live_updated_at, metadata_observed_at。
+
+实际运行效果以 Actions 日志及真实产出为准。第三方接口可能受限；鸿蒙解析依赖页面结构；未经审核的公开快照不进入正式日报。公开仓库不可存放私人信息、原始评论全文或未批准公开的报告。
