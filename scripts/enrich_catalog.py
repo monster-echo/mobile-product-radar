@@ -43,10 +43,12 @@ def android(p):
     url="https://play.google.com/store/apps/details?id="+U.quote(pid)
     return {"developer":x.get("developer"),"icon_url":x.get("icon"),"screenshots":x.get("screenshots",[]),"store_url":url,"release_date":x.get("released"),"updated_at":datetime.fromtimestamp(x["updated"],timezone.utc).isoformat() if x.get("updated") else None,"version":x.get("version"),"rating":x.get("score"),"rating_count":x.get("ratings"),"store_price":x.get("price"),"detail_source_urls":[url],"metadata_id":"android:"+pid}
 class Ark(HTMLParser):
-    def __init__(self):super().__init__();self.links=[];self.meta={};self.active=None;self.images=[];self.text=[];self.store=None
+    def __init__(self):super().__init__();self.links=[];self.meta={};self.active=None;self.images=[];self.text=[];self.store=None;self.link_labels={}
     def handle_starttag(self,tag,attrs):
         a=dict(attrs)
-        if tag=="img":self.images.append((a.get("alt",""),a.get("src",""),a.get("data-src","")))
+        if tag=="img":
+            self.images.append((a.get("alt",""),a.get("src",""),a.get("data-src","")))
+            if self.active and a.get("alt"):self.link_labels.setdefault(self.active[0],set()).add(a["alt"].strip())
         if tag=="a" and U.urlparse(a.get("href","")).hostname=="appgallery.huawei.com":self.store=a["href"]
         if tag=="a" and re.fullmatch(r"/apps/[\w.%-]+/?",a.get("href","")):self.active=[a["href"],""]
         if tag=="meta":
@@ -61,7 +63,7 @@ def harmony(p,index):
     links=[p.get("store_url","")]+p.get("source_urls",[])+p.get("detail_source_urls",[])
     urls={u for u in links if isinstance(u,str) and re.fullmatch(r"https://fangzhou\.club/apps/[\w.%-]+/?",u)}
     if not urls:
-        urls={"https://fangzhou.club"+href for href,title in index.links if norm(title)==norm(p["name"])}
+        urls={"https://fangzhou.club"+href for href,title in index.links if norm(title)==norm(p["name"]) or any(norm(label)==norm(p["name"]) for label in index.link_labels.get(href,()))}
     if len(urls)!=1:return {}
     url=next(iter(urls)); parser=Ark();parser.feed(get(url))
     # OpenGraph image may be a social preview, not necessarily an app logo.
@@ -71,12 +73,15 @@ def harmony(p,index):
     def field(label):
         for i,t in enumerate(parser.text):
             if t==label and i+1<len(parser.text):return parser.text[i+1]
+            if t.startswith(label) and len(t)>len(label):
+                value=t[len(label):].lstrip("：: ")
+                if value:return value
         return None
     icon=None; shots=[]
     for alt,src,lazy in parser.images:
         image=lazy or src
         if not https(image) or U.urlparse(image).hostname not in ("appimg-drcn.dbankcdn.com","appimg-dra.dbankcdn.com","appimg-dre.dbankcdn.com"):continue
-        if norm(alt)==norm(p["name"]):icon=image
+        if norm(alt)==norm(p["name"]) and "/icon" in U.urlparse(image).path:icon=image
         elif norm(p["name"]) in norm(alt) and "截图" in alt:shots.append(image)
     return {"detail_source_urls":[url],"metadata_id":"harmony:"+url.rstrip("/").split("/")[-1],"detail_status":"partial","developer":field("开发者"),"icon_url":icon,"screenshots":list(dict.fromkeys(shots)),"store_url":parser.store,"release_date":field("上架时间"),"updated_at":field("更新时间"),"version":field("版本"),"store_price":field("价格")}
 def completeness(p):
