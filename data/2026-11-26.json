@@ -552,6 +552,770 @@
           9
         ]
       }
+    },
+    {
+      "name": "微信",
+      "platform": "HarmonyOS",
+      "region": "CN",
+      "chart": "方舟网·累计下载应用榜",
+      "rank": 1,
+      "category": "应用",
+      "heat_evidence": "2026-11-26 第三方快照；累计下载量 9334.1 万",
+      "source_urls": [
+        "https://fangzhou.club/"
+      ],
+      "uncertainty": "第三方统计，非官方榜；下载量不等于独立用户、收入或留存"
+    },
+    {
+      "name": "卓易通",
+      "platform": "HarmonyOS",
+      "region": "CN",
+      "chart": "方舟网·累计下载应用榜",
+      "rank": 2,
+      "category": "应用",
+      "heat_evidence": "2026-11-26 第三方快照；累计下载量 9275.4 万",
+      "source_urls": [
+        "https://fangzhou.club/"
+      ],
+      "uncertainty": "第三方统计，非官方榜；下载量不等于独立用户、收入或留存"
+    },
+    {
+      "name": "抖音",
+      "platform": "HarmonyOS",
+      "region": "CN",
+      "chart": "方舟网·累计下载应用榜",
+      "rank": 3,
+      "category": "应用",
+      "heat_evidence": "2026-11-26 第三方快照；累计下载量 9156.5 万",
+      "source_urls": [
+        "https://fangzhou.club/"
+      ],
+      "uncertainty": "第三方统计，非官方榜；下载量不等于独立用户、收入或留存"
+    },
+    {
+      "name": "支付宝",
+      "platform": "HarmonyOS",
+      "region": "CN",
+      "chart": "方舟网·累计下载应用榜",
+      "rank": 4,
+      "category": "应用",
+      "heat_evidence": "2026-11-26 第三方快照；累计下载量 8618.8 万",
+      "source_urls": [
+        "https://fangzhou.club/"
+      ],
+      "uncertainty": "第三方统计，非官方榜；下载量不等于独立用户、收入或留存"
+    },
+    {
+      "name": "淘宝-万能的淘宝！",
+      "platform": "HarmonyOS",
+      "region": "CN",
+      "chart": "方舟网·累计下载应用榜",
+      "rank": 5,
+      "category": "应用",
+      "heat_evidence": "2026-11-26 第三方快照；累计下载量 8339.5 万",
+      "source_urls": [
+        "https://fangzhou.club/"
+      ],
+      "uncertainty": "第三方统计，非官方榜；下载量不等于独立用户、收入或留存"
+    },
+    {
+      "name": "WPS移动版",
+      "platform": "HarmonyOS",
+      "region": "CN",
+      "chart": "方舟网·累计下载应用榜",
+      "rank": 6,
+      "category": "应用",
+      "heat_evidence": "2026-11-26 第三方快照；累计下载量 8285.7 万",
+      "source_urls": [
+        "https://fangzhou.club/"
+      ],
+      "uncertainty": "第三方统计，非官方榜；下载量不等于独立用户、收入或留存"
+    },
+    {
+      "name": "京东",
+      "platform": "HarmonyOS",
+      "region": "CN",
+      "chart": "方舟网·累计下载应用榜",
+      "rank": 7,
+      "category": "应用",
+      "heat_evidence": "2026-11-26 第三方快照；累计下载量 8039.7 万",
+      "source_urls": [
+        "https://fangzhou.club/"
+      ],
+      "uncertainty": "第三方统计，非官方榜；下载量不等于独立用户、收入或留存"
+    },
+    {
+      "name": "小红书",
+      "platform": "HarmonyOS",
+      "region": "CN",
+      "chart": "方舟网·累计下载应用榜",
+      "rank": 8,
+      "category": "应用",
+      "heat_evidence": "2026-11-26 第三方快照；累计下载量 7898.6 万",
+      "source_urls": [
+        "https://fangzhou.club/"
+      ],
+      "uncertainty": "第三方统计，非官方榜；下载量不等于独立用户、收入或留存"
+    },
+    {
+      "name": "高德地图",
+      "platform": "HarmonyOS",
+      "region": "CN",
+      "chart": "方舟网·累计下载应用榜",
+      "rank": 9,
+      "category": "应用",
+      "heat_evidence": "2026-11-26 第三方快照；累计下载量 7817.4 万",
+      "source_urls": [
+        "https://fangzhou.club/"
+      ],
+      "uncertainty": "第三方统计，非官方榜；下载量不等于独立用户、收入或留存"
+    },
+    {
+      "name": "拼多多",
+      "platform": "HarmonyOS",
+      "region": "CN",
+      "chart": "方舟网·累计下载应用榜",
+      "rank": 10,
+      "category": "应用",
+      "heat_evidence": "2026-11-26 第三方快照；累计下载量 7739.1 万",
+      "source_urls": [
+        "https://fangzhou.club/"
+      ],
+      "uncertainty": "第三方统计，非官方榜；下载量不等于独立用户、收入或留存"
+    },
+    {
+      "name": "王者荣耀",
+      "platform": "HarmonyOS",
+      "region": "CN",
+      "chart": "方舟网·累计下载游戏榜",
+      "rank": 1,
+      "category": "游戏",
+      "heat_evidence": "2026-11-26 第三方快照；累计下载量 2184.5 万",
+      "source_urls": [
+        "https://fangzhou.club/"
+      ],
+      "uncertainty": "第三方统计，非官方榜；下载量不等于独立用户、收入或留存"
+    },
+    {
+      "name": "和平精英",
+      "platform": "HarmonyOS",
+      "region": "CN",
+      "chart": "方舟网·累计下载游戏榜",
+      "rank": 2,
+      "category": "游戏",
+      "heat_evidence": "2026-11-26 第三方快照；累计下载量 1373.6 万",
+      "source_urls": [
+        "https://fangzhou.club/"
+      ],
+      "uncertainty": "第三方统计，非官方榜；下载量不等于独立用户、收入或留存"
+    },
+    {
+      "name": "开心消消乐",
+      "platform": "HarmonyOS",
+      "region": "CN",
+      "chart": "方舟网·累计下载游戏榜",
+      "rank": 3,
+      "category": "游戏",
+      "heat_evidence": "2026-11-26 第三方快照；累计下载量 1326.7 万",
+      "source_urls": [
+        "https://fangzhou.club/"
+      ],
+      "uncertainty": "第三方统计，非官方榜；下载量不等于独立用户、收入或留存"
+    },
+    {
+      "name": "三角洲行动",
+      "platform": "HarmonyOS",
+      "region": "CN",
+      "chart": "方舟网·累计下载游戏榜",
+      "rank": 4,
+      "category": "游戏",
+      "heat_evidence": "2026-11-26 第三方快照；累计下载量 897.7 万",
+      "source_urls": [
+        "https://fangzhou.club/"
+      ],
+      "uncertainty": "第三方统计，非官方榜；下载量不等于独立用户、收入或留存"
+    },
+    {
+      "name": "金铲铲之战",
+      "platform": "HarmonyOS",
+      "region": "CN",
+      "chart": "方舟网·累计下载游戏榜",
+      "rank": 5,
+      "category": "游戏",
+      "heat_evidence": "2026-11-26 第三方快照；累计下载量 524.9 万",
+      "source_urls": [
+        "https://fangzhou.club/"
+      ],
+      "uncertainty": "第三方统计，非官方榜；下载量不等于独立用户、收入或留存"
+    },
+    {
+      "name": "欢乐斗地主",
+      "platform": "HarmonyOS",
+      "region": "CN",
+      "chart": "方舟网·累计下载游戏榜",
+      "rank": 6,
+      "category": "游戏",
+      "heat_evidence": "2026-11-26 第三方快照；累计下载量 421 万",
+      "source_urls": [
+        "https://fangzhou.club/"
+      ],
+      "uncertainty": "第三方统计，非官方榜；下载量不等于独立用户、收入或留存"
+    },
+    {
+      "name": "地铁跑酷",
+      "platform": "HarmonyOS",
+      "region": "CN",
+      "chart": "方舟网·累计下载游戏榜",
+      "rank": 7,
+      "category": "游戏",
+      "heat_evidence": "2026-11-26 第三方快照；累计下载量 378.7 万",
+      "source_urls": [
+        "https://fangzhou.club/"
+      ],
+      "uncertainty": "第三方统计，非官方榜；下载量不等于独立用户、收入或留存"
+    },
+    {
+      "name": "迷你世界",
+      "platform": "HarmonyOS",
+      "region": "CN",
+      "chart": "方舟网·累计下载游戏榜",
+      "rank": 8,
+      "category": "游戏",
+      "heat_evidence": "2026-11-26 第三方快照；累计下载量 377.7 万",
+      "source_urls": [
+        "https://fangzhou.club/"
+      ],
+      "uncertainty": "第三方统计，非官方榜；下载量不等于独立用户、收入或留存"
+    },
+    {
+      "name": "贪吃蛇大作战",
+      "platform": "HarmonyOS",
+      "region": "CN",
+      "chart": "方舟网·累计下载游戏榜",
+      "rank": 9,
+      "category": "游戏",
+      "heat_evidence": "2026-11-26 第三方快照；累计下载量 302.7 万",
+      "source_urls": [
+        "https://fangzhou.club/"
+      ],
+      "uncertainty": "第三方统计，非官方榜；下载量不等于独立用户、收入或留存"
+    },
+    {
+      "name": "英雄联盟手游",
+      "platform": "HarmonyOS",
+      "region": "CN",
+      "chart": "方舟网·累计下载游戏榜",
+      "rank": 10,
+      "category": "游戏",
+      "heat_evidence": "2026-11-26 第三方快照；累计下载量 289.4 万",
+      "source_urls": [
+        "https://fangzhou.club/"
+      ],
+      "uncertainty": "第三方统计，非官方榜；下载量不等于独立用户、收入或留存"
+    },
+    {
+      "name": "微信",
+      "platform": "HarmonyOS",
+      "region": "CN",
+      "chart": "方舟网·单日增长榜",
+      "rank": 1,
+      "category": "应用",
+      "heat_evidence": "2026-11-26 第三方快照；较11月25日新增下载 26.5 万",
+      "source_urls": [
+        "https://fangzhou.club/"
+      ],
+      "uncertainty": "第三方统计，非官方榜；下载量不等于独立用户、收入或留存"
+    },
+    {
+      "name": "红果免费短剧",
+      "platform": "HarmonyOS",
+      "region": "CN",
+      "chart": "方舟网·单日增长榜",
+      "rank": 2,
+      "category": "应用",
+      "heat_evidence": "2026-11-26 第三方快照；较11月25日新增下载 25.3 万",
+      "source_urls": [
+        "https://fangzhou.club/"
+      ],
+      "uncertainty": "第三方统计，非官方榜；下载量不等于独立用户、收入或留存"
+    },
+    {
+      "name": "豆包",
+      "platform": "HarmonyOS",
+      "region": "CN",
+      "chart": "方舟网·单日增长榜",
+      "rank": 3,
+      "category": "应用",
+      "heat_evidence": "2026-11-26 第三方快照；较11月25日新增下载 24.7 万",
+      "source_urls": [
+        "https://fangzhou.club/"
+      ],
+      "uncertainty": "第三方统计，非官方榜；下载量不等于独立用户、收入或留存"
+    },
+    {
+      "name": "抖音",
+      "platform": "HarmonyOS",
+      "region": "CN",
+      "chart": "方舟网·单日增长榜",
+      "rank": 4,
+      "category": "应用",
+      "heat_evidence": "2026-11-26 第三方快照；较11月25日新增下载 23.5 万",
+      "source_urls": [
+        "https://fangzhou.club/"
+      ],
+      "uncertainty": "第三方统计，非官方榜；下载量不等于独立用户、收入或留存"
+    },
+    {
+      "name": "支付宝",
+      "platform": "HarmonyOS",
+      "region": "CN",
+      "chart": "方舟网·单日增长榜",
+      "rank": 5,
+      "category": "应用",
+      "heat_evidence": "2026-11-26 第三方快照；较11月25日新增下载 22.1 万",
+      "source_urls": [
+        "https://fangzhou.club/"
+      ],
+      "uncertainty": "第三方统计，非官方榜；下载量不等于独立用户、收入或留存"
+    },
+    {
+      "name": "卓易通",
+      "platform": "HarmonyOS",
+      "region": "CN",
+      "chart": "方舟网·单日增长榜",
+      "rank": 6,
+      "category": "应用",
+      "heat_evidence": "2026-11-26 第三方快照；较11月25日新增下载 22 万",
+      "source_urls": [
+        "https://fangzhou.club/"
+      ],
+      "uncertainty": "第三方统计，非官方榜；下载量不等于独立用户、收入或留存"
+    },
+    {
+      "name": "WPS移动版",
+      "platform": "HarmonyOS",
+      "region": "CN",
+      "chart": "方舟网·单日增长榜",
+      "rank": 7,
+      "category": "应用",
+      "heat_evidence": "2026-11-26 第三方快照；较11月25日新增下载 21.4 万",
+      "source_urls": [
+        "https://fangzhou.club/"
+      ],
+      "uncertainty": "第三方统计，非官方榜；下载量不等于独立用户、收入或留存"
+    },
+    {
+      "name": "小红书",
+      "platform": "HarmonyOS",
+      "region": "CN",
+      "chart": "方舟网·单日增长榜",
+      "rank": 8,
+      "category": "应用",
+      "heat_evidence": "2026-11-26 第三方快照；较11月25日新增下载 20.1 万",
+      "source_urls": [
+        "https://fangzhou.club/"
+      ],
+      "uncertainty": "第三方统计，非官方榜；下载量不等于独立用户、收入或留存"
+    },
+    {
+      "name": "百度",
+      "platform": "HarmonyOS",
+      "region": "CN",
+      "chart": "方舟网·单日增长榜",
+      "rank": 9,
+      "category": "应用",
+      "heat_evidence": "2026-11-26 第三方快照；较11月25日新增下载 19.7 万",
+      "source_urls": [
+        "https://fangzhou.club/"
+      ],
+      "uncertainty": "第三方统计，非官方榜；下载量不等于独立用户、收入或留存"
+    },
+    {
+      "name": "高德地图",
+      "platform": "HarmonyOS",
+      "region": "CN",
+      "chart": "方舟网·单日增长榜",
+      "rank": 10,
+      "category": "应用",
+      "heat_evidence": "2026-11-26 第三方快照；较11月25日新增下载 19.1 万",
+      "source_urls": [
+        "https://fangzhou.club/"
+      ],
+      "uncertainty": "第三方统计，非官方榜；下载量不等于独立用户、收入或留存"
+    },
+    {
+      "name": "节点小宝",
+      "platform": "HarmonyOS",
+      "region": "CN",
+      "category": "应用",
+      "heat_evidence": "2026-11-26 方舟网最新上架列表",
+      "source_urls": [
+        "https://fangzhou.club/"
+      ],
+      "uncertainty": "新品/更新信号，非下载热榜；独立开发者身份尚未核实"
+    },
+    {
+      "name": "Python笔算方舟实验台",
+      "platform": "HarmonyOS",
+      "region": "CN",
+      "category": "应用",
+      "heat_evidence": "2026-11-26 方舟网最新上架列表",
+      "source_urls": [
+        "https://fangzhou.club/"
+      ],
+      "uncertainty": "新品/更新信号，非下载热榜；独立开发者身份尚未核实"
+    },
+    {
+      "name": "汇成家扫描与翻译",
+      "platform": "HarmonyOS",
+      "region": "CN",
+      "category": "应用",
+      "heat_evidence": "2026-11-26 方舟网最新上架列表",
+      "source_urls": [
+        "https://fangzhou.club/"
+      ],
+      "uncertainty": "新品/更新信号，非下载热榜；独立开发者身份尚未核实"
+    },
+    {
+      "name": "栖笺日记",
+      "platform": "HarmonyOS",
+      "region": "CN",
+      "category": "应用",
+      "heat_evidence": "2026-11-26 方舟网最新上架列表",
+      "source_urls": [
+        "https://fangzhou.club/"
+      ],
+      "uncertainty": "新品/更新信号，非下载热榜；独立开发者身份尚未核实"
+    },
+    {
+      "name": "学洋话",
+      "platform": "HarmonyOS",
+      "region": "CN",
+      "category": "应用",
+      "heat_evidence": "2026-11-26 方舟网最新上架列表",
+      "source_urls": [
+        "https://fangzhou.club/"
+      ],
+      "uncertainty": "新品/更新信号，非下载热榜；独立开发者身份尚未核实"
+    },
+    {
+      "name": "剧影坊",
+      "platform": "HarmonyOS",
+      "region": "CN",
+      "category": "应用",
+      "heat_evidence": "2026-11-26 方舟网最新上架列表",
+      "source_urls": [
+        "https://fangzhou.club/"
+      ],
+      "uncertainty": "新品/更新信号，非下载热榜；独立开发者身份尚未核实"
+    },
+    {
+      "name": "芯片查",
+      "platform": "HarmonyOS",
+      "region": "CN",
+      "category": "应用",
+      "heat_evidence": "2026-11-26 方舟网最新上架列表",
+      "source_urls": [
+        "https://fangzhou.club/"
+      ],
+      "uncertainty": "新品/更新信号，非下载热榜；独立开发者身份尚未核实"
+    },
+    {
+      "name": "速配阵",
+      "platform": "HarmonyOS",
+      "region": "CN",
+      "category": "应用",
+      "heat_evidence": "2026-11-26 方舟网最新上架列表",
+      "source_urls": [
+        "https://fangzhou.club/"
+      ],
+      "uncertainty": "新品/更新信号，非下载热榜；独立开发者身份尚未核实"
+    },
+    {
+      "name": "寄养日志",
+      "platform": "HarmonyOS",
+      "region": "CN",
+      "category": "应用",
+      "heat_evidence": "2026-11-26 方舟网最新上架列表",
+      "source_urls": [
+        "https://fangzhou.club/"
+      ],
+      "uncertainty": "新品/更新信号，非下载热榜；独立开发者身份尚未核实"
+    },
+    {
+      "name": "星览",
+      "platform": "HarmonyOS",
+      "region": "CN",
+      "category": "应用",
+      "heat_evidence": "2026-11-26 方舟网最新上架列表",
+      "source_urls": [
+        "https://fangzhou.club/"
+      ],
+      "uncertainty": "新品/更新信号，非下载热榜；独立开发者身份尚未核实"
+    },
+    {
+      "name": "小学英语三下听读",
+      "platform": "HarmonyOS",
+      "region": "CN",
+      "category": "应用",
+      "heat_evidence": "2026-11-26 方舟网最新上架列表",
+      "source_urls": [
+        "https://fangzhou.club/"
+      ],
+      "uncertainty": "新品/更新信号，非下载热榜；独立开发者身份尚未核实"
+    },
+    {
+      "name": "代驾豆管理",
+      "platform": "HarmonyOS",
+      "region": "CN",
+      "category": "应用",
+      "heat_evidence": "2026-11-26 方舟网最新上架列表",
+      "source_urls": [
+        "https://fangzhou.club/"
+      ],
+      "uncertainty": "新品/更新信号，非下载热榜；独立开发者身份尚未核实"
+    },
+    {
+      "name": "蓝色星原：旅谣",
+      "platform": "HarmonyOS",
+      "region": "CN",
+      "category": "游戏",
+      "heat_evidence": "2026-11-26 方舟网最新上架列表",
+      "source_urls": [
+        "https://fangzhou.club/"
+      ],
+      "uncertainty": "新品/更新信号，非下载热榜；独立开发者身份尚未核实"
+    },
+    {
+      "name": "饥困荒野",
+      "platform": "HarmonyOS",
+      "region": "CN",
+      "category": "游戏",
+      "heat_evidence": "2026-11-26 方舟网最新上架列表",
+      "source_urls": [
+        "https://fangzhou.club/"
+      ],
+      "uncertainty": "新品/更新信号，非下载热榜；独立开发者身份尚未核实"
+    },
+    {
+      "name": "腾讯围棋",
+      "platform": "HarmonyOS",
+      "region": "CN",
+      "category": "游戏",
+      "heat_evidence": "2026-11-26 方舟网最新上架列表",
+      "source_urls": [
+        "https://fangzhou.club/"
+      ],
+      "uncertainty": "新品/更新信号，非下载热榜；独立开发者身份尚未核实"
+    },
+    {
+      "name": "暴走开车模拟器",
+      "platform": "HarmonyOS",
+      "region": "CN",
+      "category": "游戏",
+      "heat_evidence": "2026-11-26 方舟网最新上架列表",
+      "source_urls": [
+        "https://fangzhou.club/"
+      ],
+      "uncertainty": "新品/更新信号，非下载热榜；独立开发者身份尚未核实"
+    },
+    {
+      "name": "三国：箭雨千军",
+      "platform": "HarmonyOS",
+      "region": "CN",
+      "category": "游戏",
+      "heat_evidence": "2026-11-26 方舟网最新上架列表",
+      "source_urls": [
+        "https://fangzhou.club/"
+      ],
+      "uncertainty": "新品/更新信号，非下载热榜；独立开发者身份尚未核实"
+    },
+    {
+      "name": "战神英雄",
+      "platform": "HarmonyOS",
+      "region": "CN",
+      "category": "游戏",
+      "heat_evidence": "2026-11-26 方舟网最新上架列表",
+      "source_urls": [
+        "https://fangzhou.club/"
+      ],
+      "uncertainty": "新品/更新信号，非下载热榜；独立开发者身份尚未核实"
+    },
+    {
+      "name": "小小刺激英雄",
+      "platform": "HarmonyOS",
+      "region": "CN",
+      "category": "游戏",
+      "heat_evidence": "2026-11-26 方舟网最新上架列表",
+      "source_urls": [
+        "https://fangzhou.club/"
+      ],
+      "uncertainty": "新品/更新信号，非下载热榜；独立开发者身份尚未核实"
+    },
+    {
+      "name": "人生模拟师",
+      "platform": "HarmonyOS",
+      "region": "CN",
+      "category": "游戏",
+      "heat_evidence": "2026-11-26 方舟网最新上架列表",
+      "source_urls": [
+        "https://fangzhou.club/"
+      ],
+      "uncertainty": "新品/更新信号，非下载热榜；独立开发者身份尚未核实"
+    },
+    {
+      "name": "疯狂罪恶城市",
+      "platform": "HarmonyOS",
+      "region": "CN",
+      "category": "游戏",
+      "heat_evidence": "2026-11-26 方舟网最新上架列表",
+      "source_urls": [
+        "https://fangzhou.club/"
+      ],
+      "uncertainty": "新品/更新信号，非下载热榜；独立开发者身份尚未核实"
+    },
+    {
+      "name": "宝宝看家3",
+      "platform": "HarmonyOS",
+      "region": "CN",
+      "category": "游戏",
+      "heat_evidence": "2026-11-26 方舟网最新上架列表",
+      "source_urls": [
+        "https://fangzhou.club/"
+      ],
+      "uncertainty": "新品/更新信号，非下载热榜；独立开发者身份尚未核实"
+    },
+    {
+      "name": "手机反恐特别行动",
+      "platform": "HarmonyOS",
+      "region": "CN",
+      "category": "游戏",
+      "heat_evidence": "2026-11-26 方舟网最新上架列表",
+      "source_urls": [
+        "https://fangzhou.club/"
+      ],
+      "uncertainty": "新品/更新信号，非下载热榜；独立开发者身份尚未核实"
+    },
+    {
+      "name": "上课偷吃模拟器",
+      "platform": "HarmonyOS",
+      "region": "CN",
+      "category": "游戏",
+      "heat_evidence": "2026-11-26 方舟网最新上架列表",
+      "source_urls": [
+        "https://fangzhou.club/"
+      ],
+      "uncertainty": "新品/更新信号，非下载热榜；独立开发者身份尚未核实"
+    },
+    {
+      "name": "实况水印相机",
+      "platform": "HarmonyOS",
+      "region": "CN",
+      "category": "应用",
+      "heat_evidence": "2026-11-26 方舟网最近更新列表",
+      "source_urls": [
+        "https://fangzhou.club/"
+      ],
+      "uncertainty": "新品/更新信号，非下载热榜；独立开发者身份尚未核实"
+    },
+    {
+      "name": "极简记工时",
+      "platform": "HarmonyOS",
+      "region": "CN",
+      "category": "应用",
+      "heat_evidence": "2026-11-26 方舟网最近更新列表",
+      "source_urls": [
+        "https://fangzhou.club/"
+      ],
+      "uncertainty": "新品/更新信号，非下载热榜；独立开发者身份尚未核实"
+    },
+    {
+      "name": "敲敲英语",
+      "platform": "HarmonyOS",
+      "region": "CN",
+      "category": "应用",
+      "heat_evidence": "2026-11-26 方舟网最近更新列表",
+      "source_urls": [
+        "https://fangzhou.club/"
+      ],
+      "uncertainty": "新品/更新信号，非下载热榜；独立开发者身份尚未核实"
+    },
+    {
+      "name": "越剧迷",
+      "platform": "HarmonyOS",
+      "region": "CN",
+      "category": "应用",
+      "heat_evidence": "2026-11-26 方舟网最近更新列表",
+      "source_urls": [
+        "https://fangzhou.club/"
+      ],
+      "uncertainty": "新品/更新信号，非下载热榜；独立开发者身份尚未核实"
+    },
+    {
+      "name": "派小店",
+      "platform": "HarmonyOS",
+      "region": "CN",
+      "category": "应用",
+      "heat_evidence": "2026-11-26 方舟网最近更新列表",
+      "source_urls": [
+        "https://fangzhou.club/"
+      ],
+      "uncertainty": "新品/更新信号，非下载热榜；独立开发者身份尚未核实"
+    },
+    {
+      "name": "标牌港",
+      "platform": "HarmonyOS",
+      "region": "CN",
+      "category": "应用",
+      "heat_evidence": "2026-11-26 方舟网最近更新列表",
+      "source_urls": [
+        "https://fangzhou.club/"
+      ],
+      "uncertainty": "新品/更新信号，非下载热榜；独立开发者身份尚未核实"
+    },
+    {
+      "name": "有品",
+      "platform": "HarmonyOS",
+      "region": "CN",
+      "category": "应用",
+      "heat_evidence": "2026-11-26 方舟网最近更新列表",
+      "source_urls": [
+        "https://fangzhou.club/"
+      ],
+      "uncertainty": "新品/更新信号，非下载热榜；独立开发者身份尚未核实"
+    },
+    {
+      "name": "恋爱时刻",
+      "platform": "HarmonyOS",
+      "region": "CN",
+      "category": "应用",
+      "heat_evidence": "2026-11-26 方舟网最近更新列表",
+      "source_urls": [
+        "https://fangzhou.club/"
+      ],
+      "uncertainty": "新品/更新信号，非下载热榜；独立开发者身份尚未核实"
+    },
+    {
+      "name": "沅虹安全随手拍",
+      "platform": "HarmonyOS",
+      "region": "CN",
+      "category": "应用",
+      "heat_evidence": "2026-11-26 方舟网最近更新列表",
+      "source_urls": [
+        "https://fangzhou.club/"
+      ],
+      "uncertainty": "新品/更新信号，非下载热榜；独立开发者身份尚未核实"
+    },
+    {
+      "name": "友盾",
+      "platform": "HarmonyOS",
+      "region": "CN",
+      "category": "应用",
+      "heat_evidence": "2026-11-26 方舟网最近更新列表",
+      "source_urls": [
+        "https://fangzhou.club/"
+      ],
+      "uncertainty": "新品/更新信号，非下载热榜；独立开发者身份尚未核实"
     }
   ]
 }
