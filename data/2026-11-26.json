@@ -41,7 +41,32 @@
       "source_urls": [
         "https://apps.apple.com/us/iphone/charts"
       ],
-      "uncertainty": "单次排名；收入、买量和留存未知"
+      "uncertainty": "单次排名；收入、买量和留存未知",
+      "developer": "Circle Games（Circle Games Teknoloji Anonim Sirketi）",
+      "rating": 4.8,
+      "rating_count": "约2,000（美国商店）",
+      "version": "1.0.5",
+      "description": "在卧室、厨房和书房中按篮子要求收集杂物。",
+      "features": [
+        "物品叠放产生遮挡",
+        "有限托盘约束拿取顺序",
+        "无倒计时",
+        "逐关整理房间"
+      ],
+      "gameplay": "寻找目标→移除上层物品→填满篮子→清理场景；托盘容量约束形成解谜。",
+      "monetization": "免费、广告、金币内购 $1.99–29.99；去广告选项 $7.99–19.99（美国商店所列不同档位）。",
+      "review_insights": [
+        "部分玩家希望点击前能识别物品名称，避免地区用词差异导致误选。",
+        "有评论认为通过广告或金币获得的额外格子不应过早收回。"
+      ],
+      "differentiation": "提供图形化目标提示、清晰的格子权益及更温和的广告节奏。",
+      "completeness_score": 65,
+      "product_id": "ios:6831317859",
+      "store_url": "https://apps.apple.com/us/app/tidy-room/id6831317859",
+      "detail_source_urls": [
+        "https://apps.apple.com/us/app/tidy-room/id6831317859"
+      ],
+      "detail_status": "partial"
     },
     {
       "name": "Bus Traffic Fever!",
@@ -97,7 +122,31 @@
       "source_urls": [
         "https://apps.apple.com/us/iphone/charts"
       ],
-      "uncertainty": "单次排名；收入、买量和留存未知"
+      "uncertainty": "单次排名；收入、买量和留存未知",
+      "developer": "Hungry Studio（销售方 ARETIS LIMITED）",
+      "rating": 4.9,
+      "rating_count": "约290万（美国商店）",
+      "version": "7.6.5",
+      "description": "在8×8棋盘放置方块并消除完整行列。",
+      "features": [
+        "无尽高分挑战",
+        "冒险关卡",
+        "每日谜题",
+        "连消与空间规划"
+      ],
+      "gameplay": "选择方块位置→完成行列→获得分数→预留后续方块空间。",
+      "monetization": "免费、广告；美国商店列出周订阅 $4.99、月 $9.99、年 $49.99。",
+      "review_insights": [
+        "历史评论希望广告演示与实际玩法一致，并希望增加更多游戏模式。"
+      ],
+      "differentiation": "用原创美术与真实玩法宣传，探索轻量主题挑战。",
+      "completeness_score": 65,
+      "product_id": "ios:1617391485",
+      "store_url": "https://apps.apple.com/us/app/block-blast/id1617391485",
+      "detail_source_urls": [
+        "https://apps.apple.com/us/app/block-blast/id1617391485"
+      ],
+      "detail_status": "partial"
     },
     {
       "name": "Amaze GO!",
@@ -359,7 +408,26 @@
         "https://apps.apple.com/app/id6820564574"
       ],
       "uncertainty": "社区或技术信号不等同收入；商业验证待做",
-      "monetization": "作者称免费，主题$1.99"
+      "monetization": "免费下载；美国商店主题内购 $0.99–2.99。",
+      "developer": "Angela Vazquez Dominguez",
+      "rating": 5,
+      "rating_count": 1,
+      "description": "以数字行列约束和成对圆点为核心的每日逻辑谜题。",
+      "features": [
+        "每天一道逻辑题",
+        "行列数字提示",
+        "每个圆点只与一个伙伴相邻",
+        "无广告、无计时",
+        "主题收藏及无障碍支持"
+      ],
+      "differentiation": "可研究无广告逻辑题与主题付费结合，避免复制原关卡。",
+      "completeness_score": 50,
+      "product_id": "ios:6820564574",
+      "store_url": "https://apps.apple.com/us/app/puntokus-daily-logic-puzzles/id6820564574",
+      "detail_source_urls": [
+        "https://apps.apple.com/us/app/puntokus-daily-logic-puzzles/id6820564574"
+      ],
+      "detail_status": "partial"
     },
     {
       "name": "bloop: nutrition",
@@ -372,7 +440,27 @@
         "https://apps.apple.com/us/app/bloop-nutrition/id6822119822"
       ],
       "uncertainty": "社区或技术信号不等同收入；商业验证待做",
-      "monetization": "作者称$2.99买断"
+      "monetization": "美国 App Store $2.99 付费下载。",
+      "developer": "Jessica Hart",
+      "rating": 5,
+      "rating_count": 2,
+      "description": "以气泡展示每日蛋白质、纤维及微量营养素摄入，不默认突出热量。",
+      "features": [
+        "食物记录与营养气泡",
+        "每日目标估算",
+        "桌面及锁屏小组件",
+        "Siri 快捷指令",
+        "可选 Apple Health 同步",
+        "表格导出"
+      ],
+      "differentiation": "低压力视觉反馈与单次付费是可研究的设计组合；健康数据需隐私保护。",
+      "completeness_score": 50,
+      "product_id": "ios:6822119822",
+      "store_url": "https://apps.apple.com/us/app/bloop-nutrition/id6822119822",
+      "detail_source_urls": [
+        "https://apps.apple.com/us/app/bloop-nutrition/id6822119822"
+      ],
+      "detail_status": "partial"
     },
     {
       "name": "DualCam",
