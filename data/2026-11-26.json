@@ -782,7 +782,24 @@
       "source_urls": [
         "https://fangzhou.club/"
       ],
-      "uncertainty": "第三方统计，非官方榜；下载量不等于独立用户、收入或留存"
+      "uncertainty": "第三方统计，非官方榜；下载量不等于独立用户、收入或留存",
+      "developer": "深圳市腾讯计算机系统有限公司",
+      "version": "12.1.1.1",
+      "release_date": "2025-07-03",
+      "updated_at": "2026-09-23",
+      "rating": 2.6,
+      "monetization": "免费",
+      "features": [
+        "5v5团队竞技",
+        "英雄选择与实时匹配",
+        "赛季与多种对战模式"
+      ],
+      "description": "5v5团队竞技；英雄选择与实时匹配；赛季与多种对战模式",
+      "detail_source_urls": [
+        "https://fangzhou.club/apps/com.tencent.tmgp.sgame.hw"
+      ],
+      "detail_status": "partial",
+      "completeness_score": 58
     },
     {
       "name": "和平精英",
@@ -808,7 +825,25 @@
       "source_urls": [
         "https://fangzhou.club/"
       ],
-      "uncertainty": "第三方统计，非官方榜；下载量不等于独立用户、收入或留存"
+      "uncertainty": "第三方统计，非官方榜；下载量不等于独立用户、收入或留存",
+      "developer": "乐元素科技（北京）股份有限公司",
+      "version": "1.163.22",
+      "release_date": "2025-08-14",
+      "updated_at": "2026-11-16",
+      "rating": 4.5,
+      "monetization": "免费，含内购",
+      "features": [
+        "三消关卡",
+        "限时挑战",
+        "主题卡片收集",
+        "合成活动"
+      ],
+      "description": "三消关卡；限时挑战；主题卡片收集；合成活动",
+      "detail_source_urls": [
+        "https://fangzhou.club/apps/com.happyelements.OhosAnimal"
+      ],
+      "detail_status": "partial",
+      "completeness_score": 58
     },
     {
       "name": "三角洲行动",
@@ -860,7 +895,25 @@
       "source_urls": [
         "https://fangzhou.club/"
       ],
-      "uncertainty": "第三方统计，非官方榜；下载量不等于独立用户、收入或留存"
+      "uncertainty": "第三方统计，非官方榜；下载量不等于独立用户、收入或留存",
+      "developer": "深圳市创梦天地科技有限公司",
+      "version": "7.08.0",
+      "release_date": "2025-08-15",
+      "updated_at": "2026-11-19",
+      "rating": 3.3,
+      "monetization": "免费，含内购",
+      "features": [
+        "无尽跑酷与障碍躲避",
+        "主题地图",
+        "角色与装备收藏",
+        "赛季活动"
+      ],
+      "description": "无尽跑酷与障碍躲避；主题地图；角色与装备收藏；赛季活动",
+      "detail_source_urls": [
+        "https://fangzhou.club/apps/com.kiloo.subwaysurf.huaweihm"
+      ],
+      "detail_status": "partial",
+      "completeness_score": 58
     },
     {
       "name": "迷你世界",
@@ -886,7 +939,10 @@
       "source_urls": [
         "https://fangzhou.club/"
       ],
-      "uncertainty": "第三方统计，非官方榜；下载量不等于独立用户、收入或留存"
+      "uncertainty": "第三方统计，非官方榜；下载量不等于独立用户、收入或留存",
+      "detail_source_urls": [
+        "https://fangzhou.club/apps/com.wepie.snake.huawei.ohm"
+      ]
     },
     {
       "name": "英雄联盟手游",
@@ -1062,7 +1118,29 @@
       "source_urls": [
         "https://fangzhou.club/"
       ],
-      "uncertainty": "新品/更新信号，非下载热榜；独立开发者身份尚未核实"
+      "uncertainty": "新品/更新信号，非下载热榜；独立开发者身份尚未核实",
+      "developer": "北京汇成家科技有限公司",
+      "version": "2.1.7",
+      "release_date": "2026-11-24",
+      "updated_at": "2026-11-24",
+      "rating": 5,
+      "monetization": "免费，含内购",
+      "features": [
+        "文档扫描与PDF导出",
+        "本地OCR",
+        "拍照翻译",
+        "手机与电脑文件互传"
+      ],
+      "description": "文档扫描与PDF导出；本地OCR；拍照翻译；手机与电脑文件互传",
+      "detail_source_urls": [
+        "https://fangzhou.club/apps/com.huichengjia.PhotoToPDF"
+      ],
+      "detail_status": "partial",
+      "completeness_score": 68,
+      "icon_url": "https://appimg-drcn.dbankcdn.com/application/icon144/phone/9204324392e24c25af339509d81751be.webp",
+      "screenshots": [
+        "https://appimg-drcn.dbankcdn.com/application/screenshut1/phone/9204324392e24c25af339509d81751be.jpg"
+      ]
     },
     {
       "name": "栖笺日记",
@@ -1073,7 +1151,29 @@
       "source_urls": [
         "https://fangzhou.club/"
       ],
-      "uncertainty": "新品/更新信号，非下载热榜；独立开发者身份尚未核实"
+      "uncertainty": "新品/更新信号，非下载热榜；独立开发者身份尚未核实",
+      "developer": "金泽希",
+      "version": "0.1.2",
+      "release_date": "2026-11-24",
+      "updated_at": "2026-11-24",
+      "rating": null,
+      "monetization": "免费",
+      "features": [
+        "离线日记与心情记录",
+        "纪念日与心愿管理",
+        "花园养成",
+        "ZIP备份"
+      ],
+      "description": "离线日记与心情记录；纪念日与心愿管理；花园养成；ZIP备份",
+      "detail_source_urls": [
+        "https://fangzhou.club/apps/com.qijian.diary"
+      ],
+      "detail_status": "partial",
+      "completeness_score": 68,
+      "icon_url": "https://appimg-drcn.dbankcdn.com/application/icon144/phone/36865e387e2648899db9463dd06e496f.webp",
+      "screenshots": [
+        "https://appimg-drcn.dbankcdn.com/application/screenshut1/phone/36865e387e2648899db9463dd06e496f.jpg"
+      ]
     },
     {
       "name": "学洋话",
@@ -1205,7 +1305,24 @@
       "source_urls": [
         "https://fangzhou.club/"
       ],
-      "uncertainty": "新品/更新信号，非下载热榜；独立开发者身份尚未核实"
+      "uncertainty": "新品/更新信号，非下载热榜；独立开发者身份尚未核实",
+      "developer": "北京奥德卓沃科技有限公司",
+      "version": "1.0.0",
+      "release_date": "2026-11-19",
+      "updated_at": "2026-11-19",
+      "rating": null,
+      "monetization": "免费",
+      "features": [
+        "点击触发车辆碰撞",
+        "车身变形与碎屑反馈",
+        "损毁程度挑战"
+      ],
+      "description": "点击触发车辆碰撞；车身变形与碎屑反馈；损毁程度挑战",
+      "detail_source_urls": [
+        "https://fangzhou.club/apps/com.adriver.hap.bzkcmnq.huawei"
+      ],
+      "detail_status": "partial",
+      "completeness_score": 48
     },
     {
       "name": "三国：箭雨千军",
@@ -1293,7 +1410,25 @@
       "source_urls": [
         "https://fangzhou.club/"
       ],
-      "uncertainty": "新品/更新信号，非下载热榜；独立开发者身份尚未核实"
+      "uncertainty": "新品/更新信号，非下载热榜；独立开发者身份尚未核实",
+      "developer": "合肥微乐信息技术有限公司",
+      "version": "1.0.2",
+      "release_date": "2026-11-18",
+      "updated_at": "2026-11-21",
+      "rating": 4.5,
+      "monetization": "免费，含内购",
+      "features": [
+        "观察课堂异常",
+        "点名提醒学生",
+        "板书补充行动力",
+        "新增学生模式"
+      ],
+      "description": "观察课堂异常；点名提醒学生；板书补充行动力；新增学生模式",
+      "detail_source_urls": [
+        "https://fangzhou.club/apps/com.wl.sktcmnq.app.huawei"
+      ],
+      "detail_status": "partial",
+      "completeness_score": 48
     },
     {
       "name": "实况水印相机",
