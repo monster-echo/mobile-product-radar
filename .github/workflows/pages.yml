@@ -35,6 +35,8 @@ jobs:
       - run: python scripts/enrich_catalog.py
       - name: Validate and persist metadata
         run: python scripts/archive_metadata.py
+      - name: Check coverage and actual image availability
+        run: python scripts/check_health.py
       - name: Save historical snapshots
         run: |
           git config user.name 'mobile-product-radar[bot]'
