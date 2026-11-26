@@ -33,7 +33,7 @@ for path in sorted((ROOT / "data").glob("*.json")):
             continue
         if data["date"] != date or q["date"] != date or not isinstance(data["products"], list) or not all(isinstance(p,dict) and isinstance(p.get("name"),str) for p in data["products"]):
             continue
-        fields = ("name","product_id","platform","category","region","chart","rank","opportunity_score","core_function","gameplay","heat_evidence","monetization","uncertainty","source_url","source_urls")
+        fields = ("name","product_id","platform","category","region","chart","rank","opportunity_score","core_function","gameplay","heat_evidence","monetization","uncertainty","source_url","source_urls","developer","icon_url","screenshots","store_url","release_date","updated_at","version","rating","rating_count","description","features","review_insights","differentiation","completeness_score","detail_source_urls","detail_status")
         products = [{k:p[k] for k in fields if k in p} for p in data["products"]]
         # The explicit approval must cover the full Markdown report and selected product fields.
         dest = OUT / "reports" / f"{date}.html"
