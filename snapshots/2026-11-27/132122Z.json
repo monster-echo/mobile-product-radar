@@ -1,0 +1,2010 @@
+{
+  "date": "2026-11-27",
+  "observed_at": "2026-11-27T13:21:22.034919+00:00",
+  "status": "unreviewed_observations",
+  "sources": {
+    "apple_us_apps": {
+      "status": "ok",
+      "records": [
+        {
+          "name": "TikTok Pro - Events",
+          "product_id": "ios:6741796873",
+          "developer": "TikTok Ltd.",
+          "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5c/11/48/5c114894-b6fc-ec03-910a-07e87effbbe1/AppIcon_TikTok-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+          "store_url": "https://apps.apple.com/us/app/tiktok-pro-events/id6741796873",
+          "release_date": "2026-06-03",
+          "rank": 1,
+          "region": "US",
+          "chart": "apps top-free",
+          "source_url": "https://rss.applemarketingtools.com/api/v2/us/apps/top-free/50/apps.json"
+        },
+        {
+          "name": "Netflix Game Controller",
+          "product_id": "ios:6447582581",
+          "developer": "Netflix, Inc.",
+          "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/86/6c/f6/866cf611-d58c-d6f7-f01d-39372a797f94/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+          "store_url": "https://apps.apple.com/us/app/netflix-game-controller/id6447582581",
+          "release_date": "2023-08-07",
+          "rank": 2,
+          "region": "US",
+          "chart": "apps top-free",
+          "source_url": "https://rss.applemarketingtools.com/api/v2/us/apps/top-free/50/apps.json"
+        },
+        {
+          "name": "Muse from Meta",
+          "product_id": "ios:6760173601",
+          "developer": "Meta Platforms, Inc.",
+          "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/39/e0/5b/39e05b97-ca8e-d2a5-207a-8cc40b4afce7/HatchAppIconPublic-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/100x100bb.png",
+          "store_url": "https://apps.apple.com/us/app/muse-from-meta/id6760173601",
+          "release_date": "2026-09-08",
+          "rank": 3,
+          "region": "US",
+          "chart": "apps top-free",
+          "source_url": "https://rss.applemarketingtools.com/api/v2/us/apps/top-free/50/apps.json"
+        },
+        {
+          "name": "Lowe's Home Improvement",
+          "product_id": "ios:457954781",
+          "developer": "Lowe's Companies, Inc.",
+          "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/17/85/f3/1785f3a8-2a0f-1fa2-f857-43f1ae40ba7a/Lowes_Logo_App-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+          "store_url": "https://apps.apple.com/us/app/lowes-home-improvement/id457954781",
+          "release_date": "2011-08-29",
+          "rank": 4,
+          "region": "US",
+          "chart": "apps top-free",
+          "source_url": "https://rss.applemarketingtools.com/api/v2/us/apps/top-free/50/apps.json"
+        },
+        {
+          "name": "Trump Accounts: Official App",
+          "product_id": "ios:6767364919",
+          "developer": "U.S. Department of the Treasury",
+          "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/30/15/1d/30151d58-5652-9ffe-9b8c-fd7365478d19/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+          "store_url": "https://apps.apple.com/us/app/trump-accounts-official-app/id6767364919",
+          "release_date": "2026-05-27",
+          "rank": 5,
+          "region": "US",
+          "chart": "apps top-free",
+          "source_url": "https://rss.applemarketingtools.com/api/v2/us/apps/top-free/50/apps.json"
+        },
+        {
+          "name": "ChatGPT",
+          "product_id": "ios:6448311069",
+          "developer": "OpenAI OpCo, LLC",
+          "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/04/d8/a7/04d8a7fa-77ca-bf40-12e4-5f32c94b8824/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/100x100bb.png",
+          "store_url": "https://apps.apple.com/us/app/chatgpt/id6448311069",
+          "release_date": "2023-05-18",
+          "rank": 6,
+          "region": "US",
+          "chart": "apps top-free",
+          "source_url": "https://rss.applemarketingtools.com/api/v2/us/apps/top-free/50/apps.json"
+        },
+        {
+          "name": "Vinted: Pre-loved marketplace",
+          "product_id": "ios:632064380",
+          "developer": "Vinted Limited",
+          "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f6/b0/dd/f6b0dd53-56ef-dfa0-b764-3e5b7bdb57d9/VintedAppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+          "store_url": "https://apps.apple.com/us/app/vinted-pre-loved-marketplace/id632064380",
+          "release_date": "2013-04-11",
+          "rank": 7,
+          "region": "US",
+          "chart": "apps top-free",
+          "source_url": "https://rss.applemarketingtools.com/api/v2/us/apps/top-free/50/apps.json"
+        },
+        {
+          "name": "Tubi: Movies & Live TV",
+          "product_id": "ios:886445756",
+          "developer": "Tubi, Inc",
+          "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/25/23/f1/2523f1ff-3c4f-a030-d64d-9e099d415124/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+          "store_url": "https://apps.apple.com/us/app/tubi-movies-live-tv/id886445756",
+          "release_date": "2014-07-24",
+          "rank": 8,
+          "region": "US",
+          "chart": "apps top-free",
+          "source_url": "https://rss.applemarketingtools.com/api/v2/us/apps/top-free/50/apps.json"
+        },
+        {
+          "name": "GoWish - Your Digital Wishlist",
+          "product_id": "ios:1605170923",
+          "developer": "Onskeskyen ApS",
+          "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2e/a8/92/2ea892da-03d1-f2cc-0968-049e3debb3a2/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+          "store_url": "https://apps.apple.com/us/app/gowish-your-digital-wishlist/id1605170923",
+          "release_date": "2023-04-03",
+          "rank": 9,
+          "region": "US",
+          "chart": "apps top-free",
+          "source_url": "https://rss.applemarketingtools.com/api/v2/us/apps/top-free/50/apps.json"
+        },
+        {
+          "name": "Best Buy: Tech Deals & Savings",
+          "product_id": "ios:314855255",
+          "developer": "Best Buy Co., Inc.",
+          "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e2/2d/eb/e22deba6-5bdc-c103-af18-10095f8ad9ca/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+          "store_url": "https://apps.apple.com/us/app/best-buy-tech-deals-savings/id314855255",
+          "release_date": "2009-05-16",
+          "rank": 10,
+          "region": "US",
+          "chart": "apps top-free",
+          "source_url": "https://rss.applemarketingtools.com/api/v2/us/apps/top-free/50/apps.json"
+        },
+        {
+          "name": "PLAYFUL REWARDS: Earn Rewards",
+          "product_id": "ios:1631584032",
+          "developer": "Playful Rewards",
+          "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8f/1a/4e/8f1a4ec0-1d16-3b6c-abb0-22b79e379554/AppIcon-0-0-1x_U007epad-0-11-85-220.jpeg/100x100bb.png",
+          "store_url": "https://apps.apple.com/us/app/playful-rewards-earn-rewards/id1631584032",
+          "release_date": "2023-09-26",
+          "rank": 11,
+          "region": "US",
+          "chart": "apps top-free",
+          "source_url": "https://rss.applemarketingtools.com/api/v2/us/apps/top-free/50/apps.json"
+        },
+        {
+          "name": "Kalshi: Trade Sports & Events",
+          "product_id": "ios:1632713844",
+          "developer": "KalshiEX LLC",
+          "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0f/a4/ba/0fa4ba6e-643d-cab1-2138-bc6f3db17a84/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+          "store_url": "https://apps.apple.com/us/app/kalshi-trade-sports-events/id1632713844",
+          "release_date": "2022-09-16",
+          "rank": 12,
+          "region": "US",
+          "chart": "apps top-free",
+          "source_url": "https://rss.applemarketingtools.com/api/v2/us/apps/top-free/50/apps.json"
+        },
+        {
+          "name": "Google Gemini",
+          "product_id": "ios:6477489729",
+          "developer": "Google",
+          "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/42/70/0042705c-df7a-cff7-d36e-bc19b959ee3e/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-0-85-220.png/100x100bb.png",
+          "store_url": "https://apps.apple.com/us/app/google-gemini/id6477489729",
+          "release_date": "2024-11-13",
+          "rank": 13,
+          "region": "US",
+          "chart": "apps top-free",
+          "source_url": "https://rss.applemarketingtools.com/api/v2/us/apps/top-free/50/apps.json"
+        },
+        {
+          "name": "Claude by Anthropic",
+          "product_id": "ios:6473753684",
+          "developer": "Anthropic PBC",
+          "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dd/20/d6/dd20d632-fc93-aa7f-ebfb-3ef74468496b/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/100x100bb.png",
+          "store_url": "https://apps.apple.com/us/app/claude-by-anthropic/id6473753684",
+          "release_date": "2024-05-01",
+          "rank": 14,
+          "region": "US",
+          "chart": "apps top-free",
+          "source_url": "https://rss.applemarketingtools.com/api/v2/us/apps/top-free/50/apps.json"
+        },
+        {
+          "name": "PineDrama - Short Dramas",
+          "product_id": "ios:6754134922",
+          "developer": "TikTok Ltd.",
+          "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9b/10/77/9b107787-a4ee-9612-764b-4b0b5a18e5f6/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+          "store_url": "https://apps.apple.com/us/app/pinedrama-short-dramas/id6754134922",
+          "release_date": "2025-12-23",
+          "rank": 15,
+          "region": "US",
+          "chart": "apps top-free",
+          "source_url": "https://rss.applemarketingtools.com/api/v2/us/apps/top-free/50/apps.json"
+        },
+        {
+          "name": "Whatnot: Shop, Sell, Connect",
+          "product_id": "ios:1488269261",
+          "developer": "Whatnot Inc.",
+          "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e6/17/e4/e617e414-9859-09c0-5ca9-269e51cfa845/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+          "store_url": "https://apps.apple.com/us/app/whatnot-shop-sell-connect/id1488269261",
+          "release_date": "2019-12-06",
+          "rank": 16,
+          "region": "US",
+          "chart": "apps top-free",
+          "source_url": "https://rss.applemarketingtools.com/api/v2/us/apps/top-free/50/apps.json"
+        },
+        {
+          "name": "CapCut: Video & Photo Editor",
+          "product_id": "ios:1500855883",
+          "developer": "Bytedance Pte. Ltd",
+          "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1d/0e/37/1d0e3776-abfe-79ef-62fe-f0f97f41e387/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+          "store_url": "https://apps.apple.com/us/app/capcut-video-photo-editor/id1500855883",
+          "release_date": "2020-04-14",
+          "rank": 17,
+          "region": "US",
+          "chart": "apps top-free",
+          "source_url": "https://rss.applemarketingtools.com/api/v2/us/apps/top-free/50/apps.json"
+        },
+        {
+          "name": "Google",
+          "product_id": "ios:284815942",
+          "developer": "Google",
+          "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6e/57/23/6e5723af-4edb-7971-583f-5e8f21291082/SuperG_ios26-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-0-85-220.png/100x100bb.png",
+          "store_url": "https://apps.apple.com/us/app/google/id284815942",
+          "release_date": "2019-02-12",
+          "rank": 18,
+          "region": "US",
+          "chart": "apps top-free",
+          "source_url": "https://rss.applemarketingtools.com/api/v2/us/apps/top-free/50/apps.json"
+        },
+        {
+          "name": "Threads",
+          "product_id": "ios:6446901002",
+          "developer": "Instagram, Inc.",
+          "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7d/a0/95/7da09558-b065-df5f-6d00-2d75f7e1b1cd/Prod-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.png",
+          "store_url": "https://apps.apple.com/us/app/threads/id6446901002",
+          "release_date": "2023-07-05",
+          "rank": 19,
+          "region": "US",
+          "chart": "apps top-free",
+          "source_url": "https://rss.applemarketingtools.com/api/v2/us/apps/top-free/50/apps.json"
+        },
+        {
+          "name": "Shop: Track, Pay, Discover",
+          "product_id": "ios:1223471316",
+          "developer": "Shopify Inc.",
+          "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/cd/ce/05cdcea9-8c32-122a-e45f-a146767ca476/AppIconProduction-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
+          "store_url": "https://apps.apple.com/us/app/shop-track-pay-discover/id1223471316",
+          "release_date": "2017-11-16",
+          "rank": 20,
+          "region": "US",
+          "chart": "apps top-free",
+          "source_url": "https://rss.applemarketingtools.com/api/v2/us/apps/top-free/50/apps.json"
+        },
+        {
+          "name": "Walmart: Shopping & Savings",
+          "product_id": "ios:338137227",
+          "developer": "Walmart",
+          "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/09/74/54/09745460-dd1f-11b7-aeab-7c9822e6e759/AppIconHolidays-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+          "store_url": "https://apps.apple.com/us/app/walmart-shopping-savings/id338137227",
+          "release_date": "2009-11-02",
+          "rank": 21,
+          "region": "US",
+          "chart": "apps top-free",
+          "source_url": "https://rss.applemarketingtools.com/api/v2/us/apps/top-free/50/apps.json"
+        },
+        {
+          "name": "TikTok - Videos, Shop & LIVE",
+          "product_id": "ios:835599320",
+          "developer": "TikTok Ltd.",
+          "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7b/a9/be/7ba9be57-1bd4-5534-bb8d-50f707ca521e/TikTok_AppIcon26-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+          "store_url": "https://apps.apple.com/us/app/tiktok-videos-shop-live/id835599320",
+          "release_date": "2014-04-02",
+          "rank": 22,
+          "region": "US",
+          "chart": "apps top-free",
+          "source_url": "https://rss.applemarketingtools.com/api/v2/us/apps/top-free/50/apps.json"
+        },
+        {
+          "name": "Peacock TV: Stream TV & Movies",
+          "product_id": "ios:1508186374",
+          "developer": "Peacock TV LLC",
+          "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ca/c0/0d/cac00d2c-157e-cbe8-becd-413d578aad97/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+          "store_url": "https://apps.apple.com/us/app/peacock-tv-stream-tv-movies/id1508186374",
+          "release_date": "2020-07-14",
+          "rank": 23,
+          "region": "US",
+          "chart": "apps top-free",
+          "source_url": "https://rss.applemarketingtools.com/api/v2/us/apps/top-free/50/apps.json"
+        },
+        {
+          "name": "Giftful - Wishlist & Registry",
+          "product_id": "ios:1450175505",
+          "developer": "Giftful LLC",
+          "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/93/7f/e9/937fe932-0a37-6a6d-a6b3-f76bb8cf9717/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+          "store_url": "https://apps.apple.com/us/app/giftful-wishlist-registry/id1450175505",
+          "release_date": "2019-11-04",
+          "rank": 24,
+          "region": "US",
+          "chart": "apps top-free",
+          "source_url": "https://rss.applemarketingtools.com/api/v2/us/apps/top-free/50/apps.json"
+        },
+        {
+          "name": "Amazon Shopping",
+          "product_id": "ios:297606951",
+          "developer": "AMZN Mobile LLC",
+          "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/87/2c/05/872c0572-ddd5-ee40-23af-41860e79bf16/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
+          "store_url": "https://apps.apple.com/us/app/amazon-shopping/id297606951",
+          "release_date": "2008-12-03",
+          "rank": 25,
+          "region": "US",
+          "chart": "apps top-free",
+          "source_url": "https://rss.applemarketingtools.com/api/v2/us/apps/top-free/50/apps.json"
+        },
+        {
+          "name": "Temu: Shop Like a Billionaire",
+          "product_id": "ios:1641486558",
+          "developer": "Temu",
+          "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9e/a8/08/9ea808c5-791b-cb86-ec7a-7b9d7173fcdb/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+          "store_url": "https://apps.apple.com/us/app/temu-shop-like-a-billionaire/id1641486558",
+          "release_date": "2022-08-31",
+          "rank": 26,
+          "region": "US",
+          "chart": "apps top-free",
+          "source_url": "https://rss.applemarketingtools.com/api/v2/us/apps/top-free/50/apps.json"
+        },
+        {
+          "name": "Target: Shop. Style. Save.",
+          "product_id": "ios:297430070",
+          "developer": "Target",
+          "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0e/36/51/0e365168-537a-6c36-29fc-f5faed8b810b/2026_Holiday_AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+          "store_url": "https://apps.apple.com/us/app/target-shop-style-save/id297430070",
+          "release_date": "2008-11-25",
+          "rank": 27,
+          "region": "US",
+          "chart": "apps top-free",
+          "source_url": "https://rss.applemarketingtools.com/api/v2/us/apps/top-free/50/apps.json"
+        },
+        {
+          "name": "Reddit",
+          "product_id": "ios:1064216828",
+          "developer": "REDDIT, INC.",
+          "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/07/5d/4f/075d4fc3-9818-1565-cbf4-75c49455eb45/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+          "store_url": "https://apps.apple.com/us/app/reddit/id1064216828",
+          "release_date": "2016-04-07",
+          "rank": 28,
+          "region": "US",
+          "chart": "apps top-free",
+          "source_url": "https://rss.applemarketingtools.com/api/v2/us/apps/top-free/50/apps.json"
+        },
+        {
+          "name": "Koupon: Promo Codes & Deals",
+          "product_id": "ios:6472232952",
+          "developer": "Koupon Inc.",
+          "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/34/d1/35/34d1350c-85fa-d71d-8491-35f3af233977/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+          "store_url": "https://apps.apple.com/us/app/koupon-promo-codes-deals/id6472232952",
+          "release_date": "2023-11-29",
+          "rank": 29,
+          "region": "US",
+          "chart": "apps top-free",
+          "source_url": "https://rss.applemarketingtools.com/api/v2/us/apps/top-free/50/apps.json"
+        },
+        {
+          "name": "Drawnames | Secret Santa app",
+          "product_id": "ios:932002377",
+          "developer": "Meetrix Online",
+          "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1d/36/ad/1d36ad7d-41e2-fece-f412-4af0632318d2/AppIconGlassEffect-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+          "store_url": "https://apps.apple.com/us/app/drawnames-secret-santa-app/id932002377",
+          "release_date": "2021-10-04",
+          "rank": 30,
+          "region": "US",
+          "chart": "apps top-free",
+          "source_url": "https://rss.applemarketingtools.com/api/v2/us/apps/top-free/50/apps.json"
+        },
+        {
+          "name": "Disney+",
+          "product_id": "ios:1446075923",
+          "developer": "Disney",
+          "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c9/04/20/c9042033-641e-f439-37eb-4ce174e477ff/AppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/100x100bb.png",
+          "store_url": "https://apps.apple.com/us/app/disney/id1446075923",
+          "release_date": "2019-11-11",
+          "rank": 31,
+          "region": "US",
+          "chart": "apps top-free",
+          "source_url": "https://rss.applemarketingtools.com/api/v2/us/apps/top-free/50/apps.json"
+        },
+        {
+          "name": "WhatsApp",
+          "product_id": "ios:310633997",
+          "developer": "WhatsApp Inc.",
+          "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/31/26/2f/31262f80-b90e-c333-685c-75ef95db0ab7/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/100x100bb.png",
+          "store_url": "https://apps.apple.com/us/app/whatsapp/id310633997",
+          "release_date": "2009-05-04",
+          "rank": 32,
+          "region": "US",
+          "chart": "apps top-free",
+          "source_url": "https://rss.applemarketingtools.com/api/v2/us/apps/top-free/50/apps.json"
+        },
+        {
+          "name": "Paramount+",
+          "product_id": "ios:530168168",
+          "developer": "CBS Interactive",
+          "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/27/37/aa/2737aab5-cbe8-12f5-c496-fb96836dd0df/P_U002bAppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
+          "store_url": "https://apps.apple.com/us/app/paramount/id530168168",
+          "release_date": "2013-03-14",
+          "rank": 33,
+          "region": "US",
+          "chart": "apps top-free",
+          "source_url": "https://rss.applemarketingtools.com/api/v2/us/apps/top-free/50/apps.json"
+        },
+        {
+          "name": "Gmail - Email by Google",
+          "product_id": "ios:422689480",
+          "developer": "Google",
+          "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/36/97/b1/3697b194-6d14-e11a-79d4-9b953dbc8c29/gmail_2026_ios-0-0-1x_U007epad-0-0-0-1-0-0-0-0-85-220.png/100x100bb.png",
+          "store_url": "https://apps.apple.com/us/app/gmail-email-by-google/id422689480",
+          "release_date": "2011-11-02",
+          "rank": 34,
+          "region": "US",
+          "chart": "apps top-free",
+          "source_url": "https://rss.applemarketingtools.com/api/v2/us/apps/top-free/50/apps.json"
+        },
+        {
+          "name": "Instagram",
+          "product_id": "ios:389801252",
+          "developer": "Instagram, Inc.",
+          "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/81/47/e1/8147e182-6737-ae45-e896-ea87bc7f3954/Prod-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.png",
+          "store_url": "https://apps.apple.com/us/app/instagram/id389801252",
+          "release_date": "2010-10-06",
+          "rank": 35,
+          "region": "US",
+          "chart": "apps top-free",
+          "source_url": "https://rss.applemarketingtools.com/api/v2/us/apps/top-free/50/apps.json"
+        },
+        {
+          "name": "YouTube TV",
+          "product_id": "ios:1193350206",
+          "developer": "Google",
+          "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/83/0c/cb/830ccb40-d023-9dcb-071a-7c53bfffd907/logo_youtube_television_2024_q4_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/100x100bb.png",
+          "store_url": "https://apps.apple.com/us/app/youtube-tv/id1193350206",
+          "release_date": "2017-04-05",
+          "rank": 36,
+          "region": "US",
+          "chart": "apps top-free",
+          "source_url": "https://rss.applemarketingtools.com/api/v2/us/apps/top-free/50/apps.json"
+        },
+        {
+          "name": "Netflix",
+          "product_id": "ios:363590051",
+          "developer": "Netflix, Inc.",
+          "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4d/5d/8d/4d5d8d1d-8455-6c65-a256-f41ac98a2419/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/100x100bb.png",
+          "store_url": "https://apps.apple.com/us/app/netflix/id363590051",
+          "release_date": "2010-04-01",
+          "rank": 37,
+          "region": "US",
+          "chart": "apps top-free",
+          "source_url": "https://rss.applemarketingtools.com/api/v2/us/apps/top-free/50/apps.json"
+        },
+        {
+          "name": "Google Maps",
+          "product_id": "ios:585027354",
+          "developer": "Google",
+          "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/17/f6/2f/17f62fbc-d010-5a9e-e5ce-a2a3e4b7ab8b/maps_2025-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
+          "store_url": "https://apps.apple.com/us/app/google-maps/id585027354",
+          "release_date": "2012-12-13",
+          "rank": 38,
+          "region": "US",
+          "chart": "apps top-free",
+          "source_url": "https://rss.applemarketingtools.com/api/v2/us/apps/top-free/50/apps.json"
+        },
+        {
+          "name": "X",
+          "product_id": "ios:333903271",
+          "developer": "X Corp.",
+          "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/51/9c/3a/519c3a16-6bd6-0b3f-cdff-e9b68b47b297/ProductionAppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/100x100bb.png",
+          "store_url": "https://apps.apple.com/us/app/x/id333903271",
+          "release_date": "2009-10-09",
+          "rank": 39,
+          "region": "US",
+          "chart": "apps top-free",
+          "source_url": "https://rss.applemarketingtools.com/api/v2/us/apps/top-free/50/apps.json"
+        },
+        {
+          "name": "Google Chrome",
+          "product_id": "ios:535886823",
+          "developer": "Google",
+          "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/9f/f2/409ff2f3-6b72-3b9f-fa48-26f3d27b3324/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.png",
+          "store_url": "https://apps.apple.com/us/app/google-chrome/id535886823",
+          "release_date": "2012-06-28",
+          "rank": 40,
+          "region": "US",
+          "chart": "apps top-free",
+          "source_url": "https://rss.applemarketingtools.com/api/v2/us/apps/top-free/50/apps.json"
+        },
+        {
+          "name": "Depop - Buy & Sell Clothes",
+          "product_id": "ios:518684914",
+          "developer": "Depop Ltd",
+          "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/d1/a1/7fd1a1d6-485a-46ba-1daf-e08e240dc973/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+          "store_url": "https://apps.apple.com/us/app/depop-buy-sell-clothes/id518684914",
+          "release_date": "2012-08-01",
+          "rank": 41,
+          "region": "US",
+          "chart": "apps top-free",
+          "source_url": "https://rss.applemarketingtools.com/api/v2/us/apps/top-free/50/apps.json"
+        },
+        {
+          "name": "Roku Remote (Official)",
+          "product_id": "ios:482066631",
+          "developer": "ROKU INC",
+          "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/32/1b/a7/321ba71f-6eac-3547-5e36-0194ba7104cd/Roku-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+          "store_url": "https://apps.apple.com/us/app/roku-remote-official/id482066631",
+          "release_date": "2011-12-15",
+          "rank": 42,
+          "region": "US",
+          "chart": "apps top-free",
+          "source_url": "https://rss.applemarketingtools.com/api/v2/us/apps/top-free/50/apps.json"
+        },
+        {
+          "name": "Facebook",
+          "product_id": "ios:284882215",
+          "developer": "Meta Platforms, Inc.",
+          "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/91/89/b1/9189b13c-0c43-53f8-19d8-ad683fb6d420/Icon-Production-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+          "store_url": "https://apps.apple.com/us/app/facebook/id284882215",
+          "release_date": "2019-02-05",
+          "rank": 43,
+          "region": "US",
+          "chart": "apps top-free",
+          "source_url": "https://rss.applemarketingtools.com/api/v2/us/apps/top-free/50/apps.json"
+        },
+        {
+          "name": "YouTube",
+          "product_id": "ios:544007664",
+          "developer": "Google",
+          "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3c/40/e9/3c40e960-3fc8-beba-ad9a-b71ac5c9e59d/logo_youtube_2024_q4_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/100x100bb.png",
+          "store_url": "https://apps.apple.com/us/app/youtube/id544007664",
+          "release_date": "2012-09-11",
+          "rank": 44,
+          "region": "US",
+          "chart": "apps top-free",
+          "source_url": "https://rss.applemarketingtools.com/api/v2/us/apps/top-free/50/apps.json"
+        },
+        {
+          "name": "DealSeek: Coupons & Discounts",
+          "product_id": "ios:6745274862",
+          "developer": "DealSeek LLC",
+          "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/86/e6/4086e638-406e-393a-6b95-43b726ccc988/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+          "store_url": "https://apps.apple.com/us/app/dealseek-coupons-discounts/id6745274862",
+          "release_date": "2025-06-19",
+          "rank": 45,
+          "region": "US",
+          "chart": "apps top-free",
+          "source_url": "https://rss.applemarketingtools.com/api/v2/us/apps/top-free/50/apps.json"
+        },
+        {
+          "name": "Spotify: Music and Podcasts",
+          "product_id": "ios:324684580",
+          "developer": "Spotify",
+          "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ce/b5/1c/ceb51c33-0a63-56fb-db99-5d345728ae9e/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
+          "store_url": "https://apps.apple.com/us/app/spotify-music-and-podcasts/id324684580",
+          "release_date": "2011-07-14",
+          "rank": 46,
+          "region": "US",
+          "chart": "apps top-free",
+          "source_url": "https://rss.applemarketingtools.com/api/v2/us/apps/top-free/50/apps.json"
+        },
+        {
+          "name": "Telegram Messenger",
+          "product_id": "ios:686449807",
+          "developer": "Telegram FZ-LLC",
+          "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2f/1b/e8/2f1be808-3e4c-9edc-7ab6-3508a48aac84/Telegram-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+          "store_url": "https://apps.apple.com/us/app/telegram-messenger/id686449807",
+          "release_date": "2013-08-14",
+          "rank": 47,
+          "region": "US",
+          "chart": "apps top-free",
+          "source_url": "https://rss.applemarketingtools.com/api/v2/us/apps/top-free/50/apps.json"
+        },
+        {
+          "name": "Amazon Prime Video",
+          "product_id": "ios:545519333",
+          "developer": "AMZN Mobile LLC",
+          "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0f/ce/51/0fce51d0-438b-6e58-a389-88d140aca3db/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
+          "store_url": "https://apps.apple.com/us/app/amazon-prime-video/id545519333",
+          "release_date": "2012-07-31",
+          "rank": 48,
+          "region": "US",
+          "chart": "apps top-free",
+          "source_url": "https://rss.applemarketingtools.com/api/v2/us/apps/top-free/50/apps.json"
+        },
+        {
+          "name": "Snapchat",
+          "product_id": "ios:447188370",
+          "developer": "Snap, Inc.",
+          "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/05/42/80/054280f8-ddad-c9f4-85cc-8f23ebb99850/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+          "store_url": "https://apps.apple.com/us/app/snapchat/id447188370",
+          "release_date": "2011-07-13",
+          "rank": 49,
+          "region": "US",
+          "chart": "apps top-free",
+          "source_url": "https://rss.applemarketingtools.com/api/v2/us/apps/top-free/50/apps.json"
+        },
+        {
+          "name": "Rips by Triumph",
+          "product_id": "ios:6751921248",
+          "developer": "Triumph Arcade",
+          "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/37/d9/94/37d9940f-d906-e297-7db3-027b868e421b/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+          "store_url": "https://apps.apple.com/us/app/rips-by-triumph/id6751921248",
+          "release_date": "2025-10-22",
+          "rank": 50,
+          "region": "US",
+          "chart": "apps top-free",
+          "source_url": "https://rss.applemarketingtools.com/api/v2/us/apps/top-free/50/apps.json"
+        }
+      ]
+    },
+    "apple_us_games": {
+      "status": "unavailable",
+      "reason": "HTTPError"
+    },
+    "apple_cn_apps": {
+      "status": "unavailable",
+      "reason": "TimeoutError"
+    },
+    "apple_cn_games": {
+      "status": "unavailable",
+      "reason": "HTTPError"
+    },
+    "hf_models": {
+      "status": "ok",
+      "records": [
+        {
+          "name": "thinkingmachines/Inkling-2-Mini",
+          "likes": 6375,
+          "downloads": 155741,
+          "source_url": "https://huggingface.co/thinkingmachines/Inkling-2-Mini",
+          "signal": "API trending response"
+        },
+        {
+          "name": "unsloth/Inkling-2-Mini-GGUF",
+          "likes": 1543,
+          "downloads": 3302340,
+          "source_url": "https://huggingface.co/unsloth/Inkling-2-Mini-GGUF",
+          "signal": "API trending response"
+        },
+        {
+          "name": "SulphurAI/Sulphur-3",
+          "likes": 1306,
+          "downloads": 539421,
+          "source_url": "https://huggingface.co/SulphurAI/Sulphur-3",
+          "signal": "API trending response"
+        },
+        {
+          "name": "AtomicChat/Inkling-2-Mini-Uncensored-GGUF",
+          "likes": 973,
+          "downloads": 1059763,
+          "source_url": "https://huggingface.co/AtomicChat/Inkling-2-Mini-Uncensored-GGUF",
+          "signal": "API trending response"
+        },
+        {
+          "name": "prism-ml/Ternary-Bonsai-2.5-27B-GGUF",
+          "likes": 575,
+          "downloads": 382546,
+          "source_url": "https://huggingface.co/prism-ml/Ternary-Bonsai-2.5-27B-GGUF",
+          "signal": "API trending response"
+        },
+        {
+          "name": "Lightricks/LTX-2.5",
+          "likes": 13650,
+          "downloads": 3080701,
+          "source_url": "https://huggingface.co/Lightricks/LTX-2.5",
+          "signal": "API trending response"
+        },
+        {
+          "name": "llamaindex/OCRia-nano-1",
+          "likes": 303,
+          "downloads": 626,
+          "source_url": "https://huggingface.co/llamaindex/OCRia-nano-1",
+          "signal": "API trending response"
+        },
+        {
+          "name": "nvidia/Nemotron-Labs-Image-30B-A3B",
+          "likes": 300,
+          "downloads": 1692,
+          "source_url": "https://huggingface.co/nvidia/Nemotron-Labs-Image-30B-A3B",
+          "signal": "API trending response"
+        },
+        {
+          "name": "inworld/voice-isolator",
+          "likes": 978,
+          "downloads": 20510,
+          "source_url": "https://huggingface.co/inworld/voice-isolator",
+          "signal": "API trending response"
+        },
+        {
+          "name": "apple/DepthPro2",
+          "likes": 1332,
+          "downloads": 0,
+          "source_url": "https://huggingface.co/apple/DepthPro2",
+          "signal": "API trending response"
+        },
+        {
+          "name": "inclusionAI/Ling-3.2-air",
+          "likes": 274,
+          "downloads": 2403,
+          "source_url": "https://huggingface.co/inclusionAI/Ling-3.2-air",
+          "signal": "API trending response"
+        },
+        {
+          "name": "strata-engine/Inkling-2-Mini-Strata",
+          "likes": 259,
+          "downloads": 4532,
+          "source_url": "https://huggingface.co/strata-engine/Inkling-2-Mini-Strata",
+          "signal": "API trending response"
+        },
+        {
+          "name": "nari-labs/Qwen3.8-27B-NariQ-GGUF",
+          "likes": 222,
+          "downloads": 30849,
+          "source_url": "https://huggingface.co/nari-labs/Qwen3.8-27B-NariQ-GGUF",
+          "signal": "API trending response"
+        },
+        {
+          "name": "ISTA-DASLab/Inkling-2-Mini-GSQ-RCO-GGUF",
+          "likes": 188,
+          "downloads": 24931,
+          "source_url": "https://huggingface.co/ISTA-DASLab/Inkling-2-Mini-GSQ-RCO-GGUF",
+          "signal": "API trending response"
+        },
+        {
+          "name": "orcarouter/Inkling-2-Mini-abliterated-GGUF",
+          "likes": 306,
+          "downloads": 21019,
+          "source_url": "https://huggingface.co/orcarouter/Inkling-2-Mini-abliterated-GGUF",
+          "signal": "API trending response"
+        },
+        {
+          "name": "sand-ai/MAGI-2-preview",
+          "likes": 316,
+          "downloads": 0,
+          "source_url": "https://huggingface.co/sand-ai/MAGI-2-preview",
+          "signal": "API trending response"
+        },
+        {
+          "name": "Sentinel7/h3",
+          "likes": 2185,
+          "downloads": 0,
+          "source_url": "https://huggingface.co/Sentinel7/h3",
+          "signal": "API trending response"
+        },
+        {
+          "name": "Aleph-Alpha/Kolibri-1.1",
+          "likes": 192,
+          "downloads": 1725,
+          "source_url": "https://huggingface.co/Aleph-Alpha/Kolibri-1.1",
+          "signal": "API trending response"
+        },
+        {
+          "name": "kandinskylab/Kandinsky-ImageSR-2.0",
+          "likes": 156,
+          "downloads": 582,
+          "source_url": "https://huggingface.co/kandinskylab/Kandinsky-ImageSR-2.0",
+          "signal": "API trending response"
+        },
+        {
+          "name": "KRAFTON/Raon-1-mini",
+          "likes": 174,
+          "downloads": 1477,
+          "source_url": "https://huggingface.co/KRAFTON/Raon-1-mini",
+          "signal": "API trending response"
+        },
+        {
+          "name": "Qwen/Qwen3.8-27B",
+          "likes": 21887,
+          "downloads": 5752506,
+          "source_url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+          "signal": "API trending response"
+        },
+        {
+          "name": "harness-hub/Qwen3.8-27B-pi-adapted",
+          "likes": 1160,
+          "downloads": 4362,
+          "source_url": "https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted",
+          "signal": "API trending response"
+        },
+        {
+          "name": "baidu/ERNIE-5.5-Flash-Preview",
+          "likes": 364,
+          "downloads": 2609,
+          "source_url": "https://huggingface.co/baidu/ERNIE-5.5-Flash-Preview",
+          "signal": "API trending response"
+        },
+        {
+          "name": "facebook/sam-3d-body-dinov3",
+          "likes": 2125,
+          "downloads": 21947,
+          "source_url": "https://huggingface.co/facebook/sam-3d-body-dinov3",
+          "signal": "API trending response"
+        },
+        {
+          "name": "Lakonik/pi-H3",
+          "likes": 333,
+          "downloads": 97525,
+          "source_url": "https://huggingface.co/Lakonik/pi-H3",
+          "signal": "API trending response"
+        },
+        {
+          "name": "inclusionAI/Ming-Image-0.2-Design",
+          "likes": 130,
+          "downloads": 416,
+          "source_url": "https://huggingface.co/inclusionAI/Ming-Image-0.2-Design",
+          "signal": "API trending response"
+        },
+        {
+          "name": "higurashi-ai/Haru-4B",
+          "likes": 1063,
+          "downloads": 10879,
+          "source_url": "https://huggingface.co/higurashi-ai/Haru-4B",
+          "signal": "API trending response"
+        },
+        {
+          "name": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
+          "likes": 4440,
+          "downloads": 1919755,
+          "source_url": "https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
+          "signal": "API trending response"
+        },
+        {
+          "name": "chatrlabs/Qwen-Image-2.1-Uncensored-Omni-Quantized",
+          "likes": 1024,
+          "downloads": 602227,
+          "source_url": "https://huggingface.co/chatrlabs/Qwen-Image-2.1-Uncensored-Omni-Quantized",
+          "signal": "API trending response"
+        },
+        {
+          "name": "sensenova/SenseNova-Loop-9B",
+          "likes": 789,
+          "downloads": 4253,
+          "source_url": "https://huggingface.co/sensenova/SenseNova-Loop-9B",
+          "signal": "API trending response"
+        }
+      ]
+    },
+    "hf_spaces": {
+      "status": "ok",
+      "records": [
+        {
+          "name": "JCisHERE/wan2-2-i2v-v3",
+          "likes": 853,
+          "downloads": null,
+          "source_url": "https://huggingface.co/spaces/JCisHERE/wan2-2-i2v-v3",
+          "signal": "API trending response"
+        },
+        {
+          "name": "Lakonik/pi-H3",
+          "likes": 196,
+          "downloads": null,
+          "source_url": "https://huggingface.co/spaces/Lakonik/pi-H3",
+          "signal": "API trending response"
+        },
+        {
+          "name": "MiniMaxAI/minimax-h3-image",
+          "likes": 379,
+          "downloads": null,
+          "source_url": "https://huggingface.co/spaces/MiniMaxAI/minimax-h3-image",
+          "signal": "API trending response"
+        },
+        {
+          "name": "huggingface/moe-blogpost",
+          "likes": 871,
+          "downloads": null,
+          "source_url": "https://huggingface.co/spaces/huggingface/moe-blogpost",
+          "signal": "API trending response"
+        },
+        {
+          "name": "waitinghere/Krea2T-Revamped",
+          "likes": 198,
+          "downloads": null,
+          "source_url": "https://huggingface.co/spaces/waitinghere/Krea2T-Revamped",
+          "signal": "API trending response"
+        },
+        {
+          "name": "joelniklaus/harness-leaderboard",
+          "likes": 570,
+          "downloads": null,
+          "source_url": "https://huggingface.co/spaces/joelniklaus/harness-leaderboard",
+          "signal": "API trending response"
+        },
+        {
+          "name": "waitinghere/MINIMAX-H3-Ref2VA-Revamped",
+          "likes": 71,
+          "downloads": null,
+          "source_url": "https://huggingface.co/spaces/waitinghere/MINIMAX-H3-Ref2VA-Revamped",
+          "signal": "API trending response"
+        },
+        {
+          "name": "xyzanonimous5/Qwen-Image-2.1-Studio",
+          "likes": 89,
+          "downloads": null,
+          "source_url": "https://huggingface.co/spaces/xyzanonimous5/Qwen-Image-2.1-Studio",
+          "signal": "API trending response"
+        },
+        {
+          "name": "rdata92/LTX-2.3-10Eros",
+          "likes": 281,
+          "downloads": null,
+          "source_url": "https://huggingface.co/spaces/rdata92/LTX-2.3-10Eros",
+          "signal": "API trending response"
+        },
+        {
+          "name": "HuggingFaceSwarms/scaling-swarms",
+          "likes": 49,
+          "downloads": null,
+          "source_url": "https://huggingface.co/spaces/HuggingFaceSwarms/scaling-swarms",
+          "signal": "API trending response"
+        },
+        {
+          "name": "amisima/Qwen-2.1-Turbo-Qwen-Face-Swap-MOSS-Image-Edit-Outpaint-Qwen-Detail-Enhancer",
+          "likes": 165,
+          "downloads": null,
+          "source_url": "https://huggingface.co/spaces/amisima/Qwen-2.1-Turbo-Qwen-Face-Swap-MOSS-Image-Edit-Outpaint-Qwen-Detail-Enhancer",
+          "signal": "API trending response"
+        },
+        {
+          "name": "mrfakename/voice-isolator",
+          "likes": 64,
+          "downloads": null,
+          "source_url": "https://huggingface.co/spaces/mrfakename/voice-isolator",
+          "signal": "API trending response"
+        },
+        {
+          "name": "dlouapre/looped-transformers",
+          "likes": 40,
+          "downloads": null,
+          "source_url": "https://huggingface.co/spaces/dlouapre/looped-transformers",
+          "signal": "API trending response"
+        },
+        {
+          "name": "johnnysnowblind/wan2-2-fp8da-aoti-preview-2c-finishing",
+          "likes": 70,
+          "downloads": null,
+          "source_url": "https://huggingface.co/spaces/johnnysnowblind/wan2-2-fp8da-aoti-preview-2c-finishing",
+          "signal": "API trending response"
+        },
+        {
+          "name": "hugging-apps/bfs-best-face-swap",
+          "likes": 1114,
+          "downloads": null,
+          "source_url": "https://huggingface.co/spaces/hugging-apps/bfs-best-face-swap",
+          "signal": "API trending response"
+        },
+        {
+          "name": "briaai/BRIA-RMBG-3.0",
+          "likes": 52,
+          "downloads": null,
+          "source_url": "https://huggingface.co/spaces/briaai/BRIA-RMBG-3.0",
+          "signal": "API trending response"
+        },
+        {
+          "name": "microsoft/TRELLIS.2",
+          "likes": 2485,
+          "downloads": null,
+          "source_url": "https://huggingface.co/spaces/microsoft/TRELLIS.2",
+          "signal": "API trending response"
+        },
+        {
+          "name": "lewtun/from-llms-to-swarms",
+          "likes": 36,
+          "downloads": null,
+          "source_url": "https://huggingface.co/spaces/lewtun/from-llms-to-swarms",
+          "signal": "API trending response"
+        },
+        {
+          "name": "software-mansion/Reverb-TTS-runntime",
+          "likes": 37,
+          "downloads": null,
+          "source_url": "https://huggingface.co/spaces/software-mansion/Reverb-TTS-runntime",
+          "signal": "API trending response"
+        },
+        {
+          "name": "Guaryn/qwen-image-2.1-uncensored-aio-loras",
+          "likes": 286,
+          "downloads": null,
+          "source_url": "https://huggingface.co/spaces/Guaryn/qwen-image-2.1-uncensored-aio-loras",
+          "signal": "API trending response"
+        },
+        {
+          "name": "rdata92/qwen-image-21-uncensored",
+          "likes": 51,
+          "downloads": null,
+          "source_url": "https://huggingface.co/spaces/rdata92/qwen-image-21-uncensored",
+          "signal": "API trending response"
+        },
+        {
+          "name": "kulkas2pintu/QWEN_EDIT_IMAGE",
+          "likes": 840,
+          "downloads": null,
+          "source_url": "https://huggingface.co/spaces/kulkas2pintu/QWEN_EDIT_IMAGE",
+          "signal": "API trending response"
+        },
+        {
+          "name": "nvidia/simready-central",
+          "likes": 460,
+          "downloads": null,
+          "source_url": "https://huggingface.co/spaces/nvidia/simready-central",
+          "signal": "API trending response"
+        },
+        {
+          "name": "hf-audio/open_tts_leaderboard",
+          "likes": 128,
+          "downloads": null,
+          "source_url": "https://huggingface.co/spaces/hf-audio/open_tts_leaderboard",
+          "signal": "API trending response"
+        },
+        {
+          "name": "cfahlgren1/imagine",
+          "likes": 23,
+          "downloads": null,
+          "source_url": "https://huggingface.co/spaces/cfahlgren1/imagine",
+          "signal": "API trending response"
+        },
+        {
+          "name": "traderharikrishna/Wan_2.2_I2V_14B_Custom_Lora",
+          "likes": 60,
+          "downloads": null,
+          "source_url": "https://huggingface.co/spaces/traderharikrishna/Wan_2.2_I2V_14B_Custom_Lora",
+          "signal": "API trending response"
+        },
+        {
+          "name": "akhaliq/DepthPro2",
+          "likes": 25,
+          "downloads": null,
+          "source_url": "https://huggingface.co/spaces/akhaliq/DepthPro2",
+          "signal": "API trending response"
+        },
+        {
+          "name": "zerogpu-aoti/wan2-2-fp8da-aoti-faster",
+          "likes": 3933,
+          "downloads": null,
+          "source_url": "https://huggingface.co/spaces/zerogpu-aoti/wan2-2-fp8da-aoti-faster",
+          "signal": "API trending response"
+        },
+        {
+          "name": "Qwen/Qwen3-TTS",
+          "likes": 2444,
+          "downloads": null,
+          "source_url": "https://huggingface.co/spaces/Qwen/Qwen3-TTS",
+          "signal": "API trending response"
+        },
+        {
+          "name": "SUGE212/Qwen-4-27B-Preview",
+          "likes": 34,
+          "downloads": null,
+          "source_url": "https://huggingface.co/spaces/SUGE212/Qwen-4-27B-Preview",
+          "signal": "API trending response"
+        }
+      ]
+    },
+    "hackernews": {
+      "status": "ok",
+      "records": [
+        {
+          "name": "Show HN: Open-Sourced Code Mode to Cut ~60% of My Rust Agent's Token Burn",
+          "post_id": 50665796,
+          "score": 2,
+          "comments": 1,
+          "published_unix": 1795780263,
+          "source_url": "https://news.ycombinator.com/item?id=50665796"
+        },
+        {
+          "name": "Show HN: I wrote an entire Vim manual over 4 years",
+          "post_id": 50655868,
+          "score": 226,
+          "comments": 69,
+          "published_unix": 1795704262,
+          "source_url": "https://news.ycombinator.com/item?id=50655868"
+        },
+        {
+          "name": "Show HN: Gerber 3D – view, compare and fab-check PCB files in the browser",
+          "post_id": 50665405,
+          "score": 2,
+          "comments": 0,
+          "published_unix": 1795776945,
+          "source_url": "https://news.ycombinator.com/item?id=50665405"
+        },
+        {
+          "name": "Show HN: Olumino, a Markdown notes and spaced repetition app",
+          "post_id": 50651099,
+          "score": 117,
+          "comments": 49,
+          "published_unix": 1795663986,
+          "source_url": "https://news.ycombinator.com/item?id=50651099"
+        },
+        {
+          "name": "Show HN: Hacker News Movies",
+          "post_id": 50665175,
+          "score": 2,
+          "comments": 1,
+          "published_unix": 1795774870,
+          "source_url": "https://news.ycombinator.com/item?id=50665175"
+        },
+        {
+          "name": "Show HN: Three Linux VMs in a browser tab, each running a different browser",
+          "post_id": 50656036,
+          "score": 146,
+          "comments": 33,
+          "published_unix": 1795705206,
+          "source_url": "https://news.ycombinator.com/item?id=50656036"
+        },
+        {
+          "name": "Show HN: SimDrop – Running iOS simulators in the macOS Finder sidebar",
+          "post_id": 50657070,
+          "score": 48,
+          "comments": 10,
+          "published_unix": 1795711898,
+          "source_url": "https://news.ycombinator.com/item?id=50657070"
+        },
+        {
+          "name": "Show HN: Synth Patch Hero",
+          "post_id": 50623232,
+          "score": 144,
+          "comments": 28,
+          "published_unix": 1795490662,
+          "source_url": "https://news.ycombinator.com/item?id=50623232"
+        },
+        {
+          "name": "Show HN: An agent skill that optimizes code with falsifiable hypotheses",
+          "post_id": 50611593,
+          "score": 134,
+          "comments": 13,
+          "published_unix": 1795442535,
+          "source_url": "https://news.ycombinator.com/item?id=50611593"
+        },
+        {
+          "name": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
+          "post_id": 50638503,
+          "score": 355,
+          "comments": 80,
+          "published_unix": 1795581108,
+          "source_url": "https://news.ycombinator.com/item?id=50638503"
+        },
+        {
+          "name": "Show HN: Turned a $5 AliExpress clock into a desk Clawd pet(+usage)",
+          "post_id": 50642300,
+          "score": 57,
+          "comments": 7,
+          "published_unix": 1795614704,
+          "source_url": "https://news.ycombinator.com/item?id=50642300"
+        },
+        {
+          "name": "Show HN: Rchive – Every drive I've owned since the 90s, searchable in one window",
+          "post_id": 50624684,
+          "score": 54,
+          "comments": 26,
+          "published_unix": 1795503813,
+          "source_url": "https://news.ycombinator.com/item?id=50624684"
+        },
+        {
+          "name": "Show HN: Silent dictation for Claude Code via on-device lip reading",
+          "post_id": 50655639,
+          "score": 17,
+          "comments": 2,
+          "published_unix": 1795703108,
+          "source_url": "https://news.ycombinator.com/item?id=50655639"
+        },
+        {
+          "name": "Show HN: GravityFinder – Explore Exoplanets and More",
+          "post_id": 50661906,
+          "score": 4,
+          "comments": 0,
+          "published_unix": 1795744654,
+          "source_url": "https://news.ycombinator.com/item?id=50661906"
+        },
+        {
+          "name": "Show HN: Faster Mac Use – Background Chrome/macOS MCP and 5-lane routing skill",
+          "post_id": 50661603,
+          "score": 3,
+          "comments": 0,
+          "published_unix": 1795741638,
+          "source_url": "https://news.ycombinator.com/item?id=50661603"
+        },
+        {
+          "name": "Show HN: Grind, my OpenDocument native office suite built in Rust",
+          "post_id": 50658013,
+          "score": 3,
+          "comments": 1,
+          "published_unix": 1795717241,
+          "source_url": "https://news.ycombinator.com/item?id=50658013"
+        },
+        {
+          "name": "Show HN: Mason – A lightweight Postgres read-replica, built on columnar storage",
+          "post_id": 50630294,
+          "score": 109,
+          "comments": 21,
+          "published_unix": 1795536712,
+          "source_url": "https://news.ycombinator.com/item?id=50630294"
+        },
+        {
+          "name": "Show HN: PQCrypta Proxy: Rust proxy with HTTP/3, QUIC, hybrid post-quantum TLS",
+          "post_id": 50591024,
+          "score": 47,
+          "comments": 25,
+          "published_unix": 1795279603,
+          "source_url": "https://news.ycombinator.com/item?id=50591024"
+        },
+        {
+          "name": "Show HN: Dart-TS Bridge",
+          "post_id": 50659956,
+          "score": 2,
+          "comments": 0,
+          "published_unix": 1795728103,
+          "source_url": "https://news.ycombinator.com/item?id=50659956"
+        },
+        {
+          "name": "Show HN: Single Calendar – Sync multiple Google calendars",
+          "post_id": 50659618,
+          "score": 5,
+          "comments": 2,
+          "published_unix": 1795726053,
+          "source_url": "https://news.ycombinator.com/item?id=50659618"
+        },
+        {
+          "name": "Show HN: Décor does HTML widgets for the Mac (you know, like in the old days)",
+          "post_id": 50659437,
+          "score": 4,
+          "comments": 5,
+          "published_unix": 1795725066,
+          "source_url": "https://news.ycombinator.com/item?id=50659437"
+        },
+        {
+          "name": "Show HN: Explore the 17M-line Lean proof of the Riemann Hypothesis",
+          "post_id": 50659404,
+          "score": 5,
+          "comments": 1,
+          "published_unix": 1795724910,
+          "source_url": "https://news.ycombinator.com/item?id=50659404"
+        },
+        {
+          "name": "Show HN: Play with VST/CLAP instruments and effects in the browser",
+          "post_id": 50659354,
+          "score": 3,
+          "comments": 1,
+          "published_unix": 1795724713,
+          "source_url": "https://news.ycombinator.com/item?id=50659354"
+        },
+        {
+          "name": "Show HN: Footprint – Visual electronics learning, encyclopedia, and part search",
+          "post_id": 50659294,
+          "score": 2,
+          "comments": 0,
+          "published_unix": 1795724439,
+          "source_url": "https://news.ycombinator.com/item?id=50659294"
+        },
+        {
+          "name": "Show HN: Ribbon Architect – Endless ways to tie a gift ribbon",
+          "post_id": 50627625,
+          "score": 26,
+          "comments": 1,
+          "published_unix": 1795525577,
+          "source_url": "https://news.ycombinator.com/item?id=50627625"
+        },
+        {
+          "name": "Show HN: Pocket Garden – 150 plus web games in a virtual console",
+          "post_id": 50658574,
+          "score": 5,
+          "comments": 0,
+          "published_unix": 1795720281,
+          "source_url": "https://news.ycombinator.com/item?id=50658574"
+        },
+        {
+          "name": "Show HN: Sliding-panes React UI library (inspired by WebOS Enyo)",
+          "post_id": 50637936,
+          "score": 39,
+          "comments": 8,
+          "published_unix": 1795576218,
+          "source_url": "https://news.ycombinator.com/item?id=50637936"
+        },
+        {
+          "name": "Show HN: Fuck_data_brokers.py",
+          "post_id": 50658191,
+          "score": 239,
+          "comments": 52,
+          "published_unix": 1795718241,
+          "source_url": "https://news.ycombinator.com/item?id=50658191"
+        },
+        {
+          "name": "Show HN: Carry – Save every AI conversations as Markdown, in a folder you Own",
+          "post_id": 50637995,
+          "score": 31,
+          "comments": 30,
+          "published_unix": 1795576742,
+          "source_url": "https://news.ycombinator.com/item?id=50637995"
+        },
+        {
+          "name": "Show HN: Type-C – variants, options, generics and pattern matching for C",
+          "post_id": 50602561,
+          "score": 52,
+          "comments": 22,
+          "published_unix": 1795372857,
+          "source_url": "https://news.ycombinator.com/item?id=50602561"
+        }
+      ]
+    },
+    "harmony": {
+      "status": "ok",
+      "records": [
+        {
+          "name": "今日下载量最高\n        \n            \n            \n                小艺输入法\n                轻松输入，让表达更简单！\n            \n            9,742.5万\n        \n        统计日期 2026-11-26 · 累计下载量",
+          "source_url": "https://fangzhou.club/apps/com.huawei.hmos.inputmethod",
+          "signal": "directory link, not rank"
+        },
+        {
+          "name": "1\n                \n                \n                    拼多多\n                    拼着买，才便宜\n                \n                +25.4万",
+          "source_url": "https://fangzhou.club/apps/com.xunmeng.pinduoduo.hos",
+          "signal": "directory link, not rank"
+        },
+        {
+          "name": "云记事",
+          "source_url": "https://fangzhou.club/apps/com.cloudnote.app",
+          "signal": "directory link, not rank"
+        },
+        {
+          "name": "色用图鉴",
+          "source_url": "https://fangzhou.club/apps/com.dingxi.seyongtujian",
+          "signal": "directory link, not rank"
+        },
+        {
+          "name": "寰域纪闻",
+          "source_url": "https://fangzhou.club/apps/com.hongshuo.huanyujiwen",
+          "signal": "directory link, not rank"
+        },
+        {
+          "name": "家庭医档",
+          "source_url": "https://fangzhou.club/apps/com.wxhealth.wx_health_flutter",
+          "signal": "directory link, not rank"
+        },
+        {
+          "name": "色彩季",
+          "source_url": "https://fangzhou.club/apps/com.hongshuo.secaiji",
+          "signal": "directory link, not rank"
+        },
+        {
+          "name": "家序轮值",
+          "source_url": "https://fangzhou.club/apps/com.dingxi.jiaxulunzhi",
+          "signal": "directory link, not rank"
+        },
+        {
+          "name": "风格衣签",
+          "source_url": "https://fangzhou.club/apps/fgyq.ccsdsmx.huawei",
+          "signal": "directory link, not rank"
+        },
+        {
+          "name": "销售计算器",
+          "source_url": "https://fangzhou.club/apps/com.yimingliangpin.danji2026003",
+          "signal": "directory link, not rank"
+        },
+        {
+          "name": "萝卜滤镜相机",
+          "source_url": "https://fangzhou.club/apps/com.naierbao.luobolvjing",
+          "signal": "directory link, not rank"
+        },
+        {
+          "name": "智能寄存柜系统",
+          "source_url": "https://fangzhou.club/apps/cn.cuit.hxy123",
+          "signal": "directory link, not rank"
+        },
+        {
+          "name": "DeepSearch",
+          "source_url": "https://fangzhou.club/apps/com.kehahn.deepsearch",
+          "signal": "directory link, not rank"
+        },
+        {
+          "name": "新基建管理平台",
+          "source_url": "https://fangzhou.club/apps/ndzk.oa.huawei",
+          "signal": "directory link, not rank"
+        },
+        {
+          "name": "蓝色星原：旅谣",
+          "source_url": "https://fangzhou.club/apps/com.manjuu.promilia.huawei",
+          "signal": "directory link, not rank"
+        },
+        {
+          "name": "永夜起源",
+          "source_url": "https://fangzhou.club/apps/com.cq.yyqy.huawei",
+          "signal": "directory link, not rank"
+        },
+        {
+          "name": "爪爪大乱斗",
+          "source_url": "https://fangzhou.club/apps/com.sqw.zzdldhm.huawei",
+          "signal": "directory link, not rank"
+        },
+        {
+          "name": "饥困荒野",
+          "source_url": "https://fangzhou.club/apps/com.tencent.dontstarve_h",
+          "signal": "directory link, not rank"
+        },
+        {
+          "name": "腾讯围棋",
+          "source_url": "https://fangzhou.club/apps/com.tencent.txwq.huawei",
+          "signal": "directory link, not rank"
+        },
+        {
+          "name": "暴走开车模拟器",
+          "source_url": "https://fangzhou.club/apps/com.adriver.hap.bzkcmnq.huawei",
+          "signal": "directory link, not rank"
+        },
+        {
+          "name": "三国：箭雨千军",
+          "source_url": "https://fangzhou.club/apps/com.lwyx.mobile.sgjyqj.HM.huawei",
+          "signal": "directory link, not rank"
+        },
+        {
+          "name": "战神英雄",
+          "source_url": "https://fangzhou.club/apps/com.zsyxymhm.huawei",
+          "signal": "directory link, not rank"
+        },
+        {
+          "name": "小小刺激英雄",
+          "source_url": "https://fangzhou.club/apps/com.gzsd.xxcjyxt.hm.huawei",
+          "signal": "directory link, not rank"
+        },
+        {
+          "name": "人生模拟师",
+          "source_url": "https://fangzhou.club/apps/com.gzsd.rsmns.hm.huawei",
+          "signal": "directory link, not rank"
+        },
+        {
+          "name": "疯狂罪恶城市",
+          "source_url": "https://fangzhou.club/apps/com.lxy.fkzecshm.huawei",
+          "signal": "directory link, not rank"
+        },
+        {
+          "name": "宝宝看家3",
+          "source_url": "https://fangzhou.club/apps/com.gzzh.bbkjt.hm.huawei",
+          "signal": "directory link, not rank"
+        },
+        {
+          "name": "东方财富",
+          "source_url": "https://fangzhou.club/apps/com.eastmoney.hmn.berlin",
+          "signal": "directory link, not rank"
+        },
+        {
+          "name": "9\n                \n                \n                    高德地图\n                    低价预订酒店门票，吃住游用高德\n                \n                7,835.4万",
+          "source_url": "https://fangzhou.club/apps/com.amap.hmapp",
+          "signal": "directory link, not rank"
+        },
+        {
+          "name": "8\n                \n                \n                    小红书\n                    你的生活兴趣社区\n                \n                7,917.4万",
+          "source_url": "https://fangzhou.club/apps/com.xingin.xhs_hos",
+          "signal": "directory link, not rank"
+        },
+        {
+          "name": "QQ音乐",
+          "source_url": "https://fangzhou.club/apps/com.tencent.hm.qqmusic",
+          "signal": "directory link, not rank"
+        },
+        {
+          "name": "酷狗音乐",
+          "source_url": "https://fangzhou.club/apps/com.kugou.hmmusic",
+          "signal": "directory link, not rank"
+        },
+        {
+          "name": "爱奇艺",
+          "source_url": "https://fangzhou.club/apps/com.qiyi.video.hmy",
+          "signal": "directory link, not rank"
+        },
+        {
+          "name": "美团",
+          "source_url": "https://fangzhou.club/apps/com.sankuai.hmeituan",
+          "signal": "directory link, not rank"
+        },
+        {
+          "name": "微博",
+          "source_url": "https://fangzhou.club/apps/com.sina.weibo.stage",
+          "signal": "directory link, not rank"
+        },
+        {
+          "name": "京东金融",
+          "source_url": "https://fangzhou.club/apps/com.jd.jrapp.hongmeng",
+          "signal": "directory link, not rank"
+        },
+        {
+          "name": "快手",
+          "source_url": "https://fangzhou.club/apps/com.kuaishou.hmapp",
+          "signal": "directory link, not rank"
+        },
+        {
+          "name": "作业帮",
+          "source_url": "https://fangzhou.club/apps/com.zuoyebang.homework",
+          "signal": "directory link, not rank"
+        },
+        {
+          "name": "2\n                \n                \n                    京东\n                    京东-又好又便宜\n                \n                +25.3万",
+          "source_url": "https://fangzhou.club/apps/com.jd.hm.mall",
+          "signal": "directory link, not rank"
+        },
+        {
+          "name": "5\n                \n                \n                    微信\n                    微信，是一个生活方式。\n                \n                +21.6万",
+          "source_url": "https://fangzhou.club/apps/com.tencent.wechat",
+          "signal": "directory link, not rank"
+        },
+        {
+          "name": "7\n                \n                \n                    卓易通\n                    应用随心下载，畅享精彩数字生活\n                \n                +21.2万",
+          "source_url": "https://fangzhou.club/apps/com.droi.tong",
+          "signal": "directory link, not rank"
+        },
+        {
+          "name": "6\n                \n                \n                    抖音\n                    记录美好生活\n                \n                +21.5万",
+          "source_url": "https://fangzhou.club/apps/com.ss.hm.ugc.aweme",
+          "signal": "directory link, not rank"
+        },
+        {
+          "name": "8\n                \n                \n                    支付宝\n                    支付宝-你的AI生活伙伴\n                \n                +21.1万",
+          "source_url": "https://fangzhou.club/apps/com.alipay.mobile.client",
+          "signal": "directory link, not rank"
+        },
+        {
+          "name": "5\n                \n                \n                    淘宝-万能的淘宝！\n                    购物·外卖·旅行上淘宝，天天有优惠\n                \n                8,356.5万",
+          "source_url": "https://fangzhou.club/apps/com.taobao.taobao4hmos",
+          "signal": "directory link, not rank"
+        },
+        {
+          "name": "9\n                \n                \n                    WPS移动版\n                    移动办公，更快更轻松\n                \n                +20.1万",
+          "source_url": "https://fangzhou.club/apps/cn.wps.mobileoffice.hap",
+          "signal": "directory link, not rank"
+        },
+        {
+          "name": "1\n                \n                \n                    王者荣耀\n                    王者荣耀新赛季【月照长安】现已上线\n                \n                2,189.3万",
+          "source_url": "https://fangzhou.club/apps/com.tencent.tmgp.sgame.hw",
+          "signal": "directory link, not rank"
+        },
+        {
+          "name": "2\n                \n                \n                    和平精英\n                    腾讯正版战术竞技手游\n                \n                1,376.3万",
+          "source_url": "https://fangzhou.club/apps/com.tencent.tmgp.pubgmhd.hw",
+          "signal": "directory link, not rank"
+        },
+        {
+          "name": "3\n                \n                \n                    开心消消乐\n                    消除烦恼，开心一下！\n                \n                1,330.3万",
+          "source_url": "https://fangzhou.club/apps/com.happyelements.OhosAnimal",
+          "signal": "directory link, not rank"
+        },
+        {
+          "name": "4\n                \n                \n                    三角洲行动\n                    新一代战术射击品质标杆\n                \n                899.4万",
+          "source_url": "https://fangzhou.club/apps/com.tencent.tmgp.dfm.hw",
+          "signal": "directory link, not rank"
+        },
+        {
+          "name": "5\n                \n                \n                    金铲铲之战\n                    英雄联盟云顶之弈正版授权手游\n                \n                526.1万",
+          "source_url": "https://fangzhou.club/apps/com.tencent.jkchess.huawei",
+          "signal": "directory link, not rank"
+        },
+        {
+          "name": "6\n                \n                \n                    欢乐斗地主\n                    打牌、种田、偷菜、找搭子，超上头~\n                \n                422.0万",
+          "source_url": "https://fangzhou.club/apps/com.qqgame.hlddz.huawei",
+          "signal": "directory link, not rank"
+        },
+        {
+          "name": "7\n                \n                \n                    地铁跑酷\n                    玩具大冒险\n                \n                379.6万",
+          "source_url": "https://fangzhou.club/apps/com.kiloo.subwaysurf.huaweihm",
+          "signal": "directory link, not rank"
+        },
+        {
+          "name": "8\n                \n                \n                    迷你世界\n                    这个冬天，一起堆雪人吧\n                \n                378.2万",
+          "source_url": "https://fangzhou.club/apps/com.minitech.miniworld.hm",
+          "signal": "directory link, not rank"
+        },
+        {
+          "name": "9\n                \n                \n                    贪吃蛇大作战\n                    不玩蛇你胆子真是肥嘟嘟\n                \n                303.1万",
+          "source_url": "https://fangzhou.club/apps/com.wepie.snake.huawei.ohm",
+          "signal": "directory link, not rank"
+        },
+        {
+          "name": "10\n                \n                \n                    英雄联盟手游\n                    聚光时刻 S23赛季\n                \n                290.3万",
+          "source_url": "https://fangzhou.club/apps/com.tencent.lolm.hw",
+          "signal": "directory link, not rank"
+        },
+        {
+          "name": "3\n                \n                \n                    红果免费短剧\n                    AI/真人剧多视频内容覆盖\n                \n                +24.9万",
+          "source_url": "https://fangzhou.club/apps/com.phoenix.read.next",
+          "signal": "directory link, not rank"
+        },
+        {
+          "name": "4\n                \n                \n                    豆包\n                    字节跳动旗下AI助手\n                \n                +22.4万",
+          "source_url": "https://fangzhou.club/apps/com.larus.nova.hm",
+          "signal": "directory link, not rank"
+        },
+        {
+          "name": "10\n                \n                \n                    百度\n                    新闻头条热⻔视频智能搜索\n                \n                +19.2万",
+          "source_url": "https://fangzhou.club/apps/com.baidu.baiduapp",
+          "signal": "directory link, not rank"
+        },
+        {
+          "name": "1\n                \n                \n                    顺词\n                    离线语音跟随，口播提词更顺\n                \n                32分钟前",
+          "source_url": "https://fangzhou.club/apps/Shunci.0.42",
+          "signal": "directory link, not rank"
+        },
+        {
+          "name": "2\n                \n                \n                    Excel公式速查\n                    随时查Excel公式步骤与表格技巧\n                \n                34分钟前",
+          "source_url": "https://fangzhou.club/apps/com.vector123.hm.excel.formula.guide",
+          "signal": "directory link, not rank"
+        },
+        {
+          "name": "3\n                \n                \n                    小鹏汽车\n                    未来出行探索者\n                \n                37分钟前",
+          "source_url": "https://fangzhou.club/apps/com.xiaopeng.mycarinfoHarmony",
+          "signal": "directory link, not rank"
+        },
+        {
+          "name": "4\n                \n                \n                    宝刀\n                    终端辅助工具\n                \n                39分钟前",
+          "source_url": "https://fangzhou.club/apps/cn.infoseclaw.bdnet",
+          "signal": "directory link, not rank"
+        },
+        {
+          "name": "5\n                \n                \n                    逗号家族-萌宠交友\n                    养宠、穿搭、交友，开启治愈生活！\n                \n                47分钟前",
+          "source_url": "https://fangzhou.club/apps/com.comma.club.pet.story.hongmeng",
+          "signal": "directory link, not rank"
+        },
+        {
+          "name": "6\n                \n                \n                    全本小说\n                    免费看好书\n                \n                49分钟前",
+          "source_url": "https://fangzhou.club/apps/com.martian.qmbook.qbbook",
+          "signal": "directory link, not rank"
+        },
+        {
+          "name": "7\n                \n                \n                    木蛙记账\n                    趣味存钱玩法 心愿归物消费人格分析\n                \n                51分钟前",
+          "source_url": "https://fangzhou.club/apps/com.jynet.mwfledgerly",
+          "signal": "directory link, not rank"
+        },
+        {
+          "name": "8\n                \n                \n                    艺愿星\n                    艺愿星，专注于艺术生艺考生高考志愿\n                \n                53分钟前",
+          "source_url": "https://fangzhou.club/apps/com.bohan.yyx",
+          "signal": "directory link, not rank"
+        },
+        {
+          "name": "9\n                \n                \n                    灵动记账本\n                    简洁记事，轻松留存每一份收支\n                \n                55分钟前",
+          "source_url": "https://fangzhou.club/apps/lingdong.notepad.huawei",
+          "signal": "directory link, not rank"
+        },
+        {
+          "name": "10\n                \n                \n                    星辰之命运塔罗\n                    塔罗占卜 · 上升星座 · 每日一卡\n                \n                1小时前",
+          "source_url": "https://fangzhou.club/apps/com.starfate.tarot",
+          "signal": "directory link, not rank"
+        }
+      ]
+    },
+    "android": {
+      "status": "ok",
+      "records": [
+        {
+          "name": "Muse from Meta",
+          "product_id": "android:com.facebook.aura",
+          "store_url": "https://play.google.com/store/apps/details?id=com.facebook.aura",
+          "source_url": "https://www.appbrain.com/stats/google-play-rankings/top_free/application/us",
+          "signal": "AppBrain chart link; rank not asserted"
+        },
+        {
+          "name": "TikTok Pro - Events",
+          "product_id": "android:com.ss.android.ugc.tiktok.pro",
+          "store_url": "https://play.google.com/store/apps/details?id=com.ss.android.ugc.tiktok.pro",
+          "source_url": "https://www.appbrain.com/stats/google-play-rankings/top_free/application/us",
+          "signal": "AppBrain chart link; rank not asserted"
+        },
+        {
+          "name": "ChatGPT",
+          "product_id": "android:com.openai.chatgpt",
+          "store_url": "https://play.google.com/store/apps/details?id=com.openai.chatgpt",
+          "source_url": "https://www.appbrain.com/stats/google-play-rankings/top_free/application/us",
+          "signal": "AppBrain chart link; rank not asserted"
+        },
+        {
+          "name": "Settings Home",
+          "product_id": "android:com.eet.settings.launcher",
+          "store_url": "https://play.google.com/store/apps/details?id=com.eet.settings.launcher",
+          "source_url": "https://www.appbrain.com/stats/google-play-rankings/top_free/application/us",
+          "signal": "AppBrain chart link; rank not asserted"
+        },
+        {
+          "name": "TikTok - Videos, Shop & LIVE",
+          "product_id": "android:com.zhiliaoapp.musically",
+          "store_url": "https://play.google.com/store/apps/details?id=com.zhiliaoapp.musically",
+          "source_url": "https://www.appbrain.com/stats/google-play-rankings/top_free/application/us",
+          "signal": "AppBrain chart link; rank not asserted"
+        },
+        {
+          "name": "WhatsApp",
+          "product_id": "android:com.whatsapp",
+          "store_url": "https://play.google.com/store/apps/details?id=com.whatsapp",
+          "source_url": "https://www.appbrain.com/stats/google-play-rankings/top_free/application/us",
+          "signal": "AppBrain chart link; rank not asserted"
+        },
+        {
+          "name": "FreeDrama: Short Drama & Reels",
+          "product_id": "android:com.drama.free",
+          "store_url": "https://play.google.com/store/apps/details?id=com.drama.free",
+          "source_url": "https://www.appbrain.com/stats/google-play-rankings/top_free/application/us",
+          "signal": "AppBrain chart link; rank not asserted"
+        },
+        {
+          "name": "PineDrama - Short Dramas",
+          "product_id": "android:com.ss.android.ttmd.video",
+          "store_url": "https://play.google.com/store/apps/details?id=com.ss.android.ttmd.video",
+          "source_url": "https://www.appbrain.com/stats/google-play-rankings/top_free/application/us",
+          "signal": "AppBrain chart link; rank not asserted"
+        },
+        {
+          "name": "Instagram",
+          "product_id": "android:com.instagram.android",
+          "store_url": "https://play.google.com/store/apps/details?id=com.instagram.android",
+          "source_url": "https://www.appbrain.com/stats/google-play-rankings/top_free/application/us",
+          "signal": "AppBrain chart link; rank not asserted"
+        },
+        {
+          "name": "Playout: Earn Money",
+          "product_id": "android:io.playout",
+          "store_url": "https://play.google.com/store/apps/details?id=io.playout",
+          "source_url": "https://www.appbrain.com/stats/google-play-rankings/top_free/application/us",
+          "signal": "AppBrain chart link; rank not asserted"
+        },
+        {
+          "name": "Facebook",
+          "product_id": "android:com.facebook.katana",
+          "store_url": "https://play.google.com/store/apps/details?id=com.facebook.katana",
+          "source_url": "https://www.appbrain.com/stats/google-play-rankings/top_free/application/us",
+          "signal": "AppBrain chart link; rank not asserted"
+        },
+        {
+          "name": "X",
+          "product_id": "android:com.twitter.android",
+          "store_url": "https://play.google.com/store/apps/details?id=com.twitter.android",
+          "source_url": "https://www.appbrain.com/stats/google-play-rankings/top_free/application/us",
+          "signal": "AppBrain chart link; rank not asserted"
+        },
+        {
+          "name": "DealSeek: Coupons & Discounts",
+          "product_id": "android:com.dealseekorg.dealseek",
+          "store_url": "https://play.google.com/store/apps/details?id=com.dealseekorg.dealseek",
+          "source_url": "https://www.appbrain.com/stats/google-play-rankings/top_free/application/us",
+          "signal": "AppBrain chart link; rank not asserted"
+        },
+        {
+          "name": "Temu: Shop Like a Billionaire",
+          "product_id": "android:com.einnovation.temu",
+          "store_url": "https://play.google.com/store/apps/details?id=com.einnovation.temu",
+          "source_url": "https://www.appbrain.com/stats/google-play-rankings/top_free/application/us",
+          "signal": "AppBrain chart link; rank not asserted"
+        },
+        {
+          "name": "TikTok Lite - Faster TikTok",
+          "product_id": "android:com.tiktok.lite.go",
+          "store_url": "https://play.google.com/store/apps/details?id=com.tiktok.lite.go",
+          "source_url": "https://www.appbrain.com/stats/google-play-rankings/top_free/application/us",
+          "signal": "AppBrain chart link; rank not asserted"
+        },
+        {
+          "name": "Reddit",
+          "product_id": "android:com.reddit.frontpage",
+          "store_url": "https://play.google.com/store/apps/details?id=com.reddit.frontpage",
+          "source_url": "https://www.appbrain.com/stats/google-play-rankings/top_free/application/us",
+          "signal": "AppBrain chart link; rank not asserted"
+        },
+        {
+          "name": "CapCut - Video Editor",
+          "product_id": "android:com.lemon.lvoverseas",
+          "store_url": "https://play.google.com/store/apps/details?id=com.lemon.lvoverseas",
+          "source_url": "https://www.appbrain.com/stats/google-play-rankings/top_free/application/us",
+          "signal": "AppBrain chart link; rank not asserted"
+        },
+        {
+          "name": "Vinted: Shop & sell pre-loved",
+          "product_id": "android:fr.vinted",
+          "store_url": "https://play.google.com/store/apps/details?id=fr.vinted",
+          "source_url": "https://www.appbrain.com/stats/google-play-rankings/top_free/application/us",
+          "signal": "AppBrain chart link; rank not asserted"
+        },
+        {
+          "name": "Claude by Anthropic",
+          "product_id": "android:com.anthropic.claude",
+          "store_url": "https://play.google.com/store/apps/details?id=com.anthropic.claude",
+          "source_url": "https://www.appbrain.com/stats/google-play-rankings/top_free/application/us",
+          "signal": "AppBrain chart link; rank not asserted"
+        },
+        {
+          "name": "Cash App",
+          "product_id": "android:com.squareup.cash",
+          "store_url": "https://play.google.com/store/apps/details?id=com.squareup.cash",
+          "source_url": "https://www.appbrain.com/stats/google-play-rankings/top_free/application/us",
+          "signal": "AppBrain chart link; rank not asserted"
+        },
+        {
+          "name": "Snapchat: Chat with friends",
+          "product_id": "android:com.snapchat.android",
+          "store_url": "https://play.google.com/store/apps/details?id=com.snapchat.android",
+          "source_url": "https://www.appbrain.com/stats/google-play-rankings/top_free/application/us",
+          "signal": "AppBrain chart link; rank not asserted"
+        },
+        {
+          "name": "Walmart: Shopping & Savings",
+          "product_id": "android:com.walmart.android",
+          "store_url": "https://play.google.com/store/apps/details?id=com.walmart.android",
+          "source_url": "https://www.appbrain.com/stats/google-play-rankings/top_free/application/us",
+          "signal": "AppBrain chart link; rank not asserted"
+        },
+        {
+          "name": "Messenger",
+          "product_id": "android:com.facebook.orca",
+          "store_url": "https://play.google.com/store/apps/details?id=com.facebook.orca",
+          "source_url": "https://www.appbrain.com/stats/google-play-rankings/top_free/application/us",
+          "signal": "AppBrain chart link; rank not asserted"
+        },
+        {
+          "name": "Tubi: Free Movies & Live TV",
+          "product_id": "android:com.tubitv",
+          "store_url": "https://play.google.com/store/apps/details?id=com.tubitv",
+          "source_url": "https://www.appbrain.com/stats/google-play-rankings/top_free/application/us",
+          "signal": "AppBrain chart link; rank not asserted"
+        },
+        {
+          "name": "Shop: Track, Pay, Discover",
+          "product_id": "android:com.shopify.arrive",
+          "store_url": "https://play.google.com/store/apps/details?id=com.shopify.arrive",
+          "source_url": "https://www.appbrain.com/stats/google-play-rankings/top_free/application/us",
+          "signal": "AppBrain chart link; rank not asserted"
+        },
+        {
+          "name": "GoWish - Your Digital Wishlist",
+          "product_id": "android:com.gowish.app",
+          "store_url": "https://play.google.com/store/apps/details?id=com.gowish.app",
+          "source_url": "https://www.appbrain.com/stats/google-play-rankings/top_free/application/us",
+          "signal": "AppBrain chart link; rank not asserted"
+        },
+        {
+          "name": "Netflix",
+          "product_id": "android:com.netflix.mediaclient",
+          "store_url": "https://play.google.com/store/apps/details?id=com.netflix.mediaclient",
+          "source_url": "https://www.appbrain.com/stats/google-play-rankings/top_free/application/us",
+          "signal": "AppBrain chart link; rank not asserted"
+        },
+        {
+          "name": "WakeBox",
+          "product_id": "android:com.wake.box.ryan",
+          "store_url": "https://play.google.com/store/apps/details?id=com.wake.box.ryan",
+          "source_url": "https://www.appbrain.com/stats/google-play-rankings/top_free/application/us",
+          "signal": "AppBrain chart link; rank not asserted"
+        },
+        {
+          "name": "Whatnot: Shop, Sell, Connect",
+          "product_id": "android:com.whatnot_mobile",
+          "store_url": "https://play.google.com/store/apps/details?id=com.whatnot_mobile",
+          "source_url": "https://www.appbrain.com/stats/google-play-rankings/top_free/application/us",
+          "signal": "AppBrain chart link; rank not asserted"
+        },
+        {
+          "name": "Koupon: Real Deals & Codes",
+          "product_id": "android:com.kouponai",
+          "store_url": "https://play.google.com/store/apps/details?id=com.kouponai",
+          "source_url": "https://www.appbrain.com/stats/google-play-rankings/top_free/application/us",
+          "signal": "AppBrain chart link; rank not asserted"
+        },
+        {
+          "name": "Telegram",
+          "product_id": "android:org.telegram.messenger",
+          "store_url": "https://play.google.com/store/apps/details?id=org.telegram.messenger",
+          "source_url": "https://www.appbrain.com/stats/google-play-rankings/top_free/application/us",
+          "signal": "AppBrain chart link; rank not asserted"
+        },
+        {
+          "name": "CoinScope: AI Identifier",
+          "product_id": "android:com.identify.track.coinscope",
+          "store_url": "https://play.google.com/store/apps/details?id=com.identify.track.coinscope",
+          "source_url": "https://www.appbrain.com/stats/google-play-rankings/top_free/application/us",
+          "signal": "AppBrain chart link; rank not asserted"
+        },
+        {
+          "name": "OnePay – Mobile Banking",
+          "product_id": "android:com.onefinance.one",
+          "store_url": "https://play.google.com/store/apps/details?id=com.onefinance.one",
+          "source_url": "https://www.appbrain.com/stats/google-play-rankings/top_free/application/us",
+          "signal": "AppBrain chart link; rank not asserted"
+        },
+        {
+          "name": "Google Gemini",
+          "product_id": "android:com.google.android.apps.bard",
+          "store_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.bard",
+          "source_url": "https://www.appbrain.com/stats/google-play-rankings/top_free/application/us",
+          "signal": "AppBrain chart link; rank not asserted"
+        },
+        {
+          "name": "Kalshi: Trade Sports & Events",
+          "product_id": "android:com.kalshi.mobile",
+          "store_url": "https://play.google.com/store/apps/details?id=com.kalshi.mobile",
+          "source_url": "https://www.appbrain.com/stats/google-play-rankings/top_free/application/us",
+          "signal": "AppBrain chart link; rank not asserted"
+        },
+        {
+          "name": "Peacock TV: Stream TV & Movies",
+          "product_id": "android:com.peacocktv.peacockandroid",
+          "store_url": "https://play.google.com/store/apps/details?id=com.peacocktv.peacockandroid",
+          "source_url": "https://www.appbrain.com/stats/google-play-rankings/top_free/application/us",
+          "signal": "AppBrain chart link; rank not asserted"
+        },
+        {
+          "name": "PayPal - Pay, Send, Save",
+          "product_id": "android:com.paypal.android.p2pmobile",
+          "store_url": "https://play.google.com/store/apps/details?id=com.paypal.android.p2pmobile",
+          "source_url": "https://www.appbrain.com/stats/google-play-rankings/top_free/application/us",
+          "signal": "AppBrain chart link; rank not asserted"
+        },
+        {
+          "name": "ReelShort - Stream Drama & TV",
+          "product_id": "android:com.newleaf.app.android.victor",
+          "store_url": "https://play.google.com/store/apps/details?id=com.newleaf.app.android.victor",
+          "source_url": "https://www.appbrain.com/stats/google-play-rankings/top_free/application/us",
+          "signal": "AppBrain chart link; rank not asserted"
+        },
+        {
+          "name": "AliExpress - Shopping App",
+          "product_id": "android:com.alibaba.aliexpresshd",
+          "store_url": "https://play.google.com/store/apps/details?id=com.alibaba.aliexpresshd",
+          "source_url": "https://www.appbrain.com/stats/google-play-rankings/top_free/application/us",
+          "signal": "AppBrain chart link; rank not asserted"
+        },
+        {
+          "name": "DramaBox - Stream Drama Shorts",
+          "product_id": "android:com.storymatrix.drama",
+          "store_url": "https://play.google.com/store/apps/details?id=com.storymatrix.drama",
+          "source_url": "https://www.appbrain.com/stats/google-play-rankings/top_free/application/us",
+          "signal": "AppBrain chart link; rank not asserted"
+        },
+        {
+          "name": "Amazon Shopping",
+          "product_id": "android:com.amazon.mShop.android.shopping",
+          "store_url": "https://play.google.com/store/apps/details?id=com.amazon.mShop.android.shopping",
+          "source_url": "https://www.appbrain.com/stats/google-play-rankings/top_free/application/us",
+          "signal": "AppBrain chart link; rank not asserted"
+        },
+        {
+          "name": "Freecash: Get Rewarded",
+          "product_id": "android:com.freecash.app2",
+          "store_url": "https://play.google.com/store/apps/details?id=com.freecash.app2",
+          "source_url": "https://www.appbrain.com/stats/google-play-rankings/top_free/application/us",
+          "signal": "AppBrain chart link; rank not asserted"
+        },
+        {
+          "name": "Spotify: Music and Podcasts",
+          "product_id": "android:com.spotify.music",
+          "store_url": "https://play.google.com/store/apps/details?id=com.spotify.music",
+          "source_url": "https://www.appbrain.com/stats/google-play-rankings/top_free/application/us",
+          "signal": "AppBrain chart link; rank not asserted"
+        },
+        {
+          "name": "T-Life",
+          "product_id": "android:com.tmobile.tuesdays",
+          "store_url": "https://play.google.com/store/apps/details?id=com.tmobile.tuesdays",
+          "source_url": "https://www.appbrain.com/stats/google-play-rankings/top_free/application/us",
+          "signal": "AppBrain chart link; rank not asserted"
+        },
+        {
+          "name": "Discord - Talk, Play, Hang Out",
+          "product_id": "android:com.discord",
+          "store_url": "https://play.google.com/store/apps/details?id=com.discord",
+          "source_url": "https://www.appbrain.com/stats/google-play-rankings/top_free/application/us",
+          "signal": "AppBrain chart link; rank not asserted"
+        },
+        {
+          "name": "Disney+",
+          "product_id": "android:com.disney.disneyplus",
+          "store_url": "https://play.google.com/store/apps/details?id=com.disney.disneyplus",
+          "source_url": "https://www.appbrain.com/stats/google-play-rankings/top_free/application/us",
+          "signal": "AppBrain chart link; rank not asserted"
+        },
+        {
+          "name": "Life360: Family Safety & GPS",
+          "product_id": "android:com.life360.android.safetymapd",
+          "store_url": "https://play.google.com/store/apps/details?id=com.life360.android.safetymapd",
+          "source_url": "https://www.appbrain.com/stats/google-play-rankings/top_free/application/us",
+          "signal": "AppBrain chart link; rank not asserted"
+        },
+        {
+          "name": "QR & Barcode Scanner",
+          "product_id": "android:com.gamma.scan",
+          "store_url": "https://play.google.com/store/apps/details?id=com.gamma.scan",
+          "source_url": "https://www.appbrain.com/stats/google-play-rankings/top_free/application/us",
+          "signal": "AppBrain chart link; rank not asserted"
+        },
+        {
+          "name": "Pinterest",
+          "product_id": "android:com.pinterest",
+          "store_url": "https://play.google.com/store/apps/details?id=com.pinterest",
+          "source_url": "https://www.appbrain.com/stats/google-play-rankings/top_free/application/us",
+          "signal": "AppBrain chart link; rank not asserted"
+        },
+        {
+          "name": "JustPlay: Earn Money or Donate",
+          "product_id": "android:com.justplay.app",
+          "store_url": "https://play.google.com/store/apps/details?id=com.justplay.app",
+          "source_url": "https://www.appbrain.com/stats/google-play-rankings/top_free/application/us",
+          "signal": "AppBrain chart link; rank not asserted"
+        }
+      ]
+    },
+    "reddit_iosapps": {
+      "status": "unavailable",
+      "reason": "HTTPError"
+    },
+    "reddit_androidapps": {
+      "status": "unavailable",
+      "reason": "HTTPError"
+    },
+    "reddit_SideProject": {
+      "status": "unavailable",
+      "reason": "HTTPError"
+    },
+    "reddit_IndieDev": {
+      "status": "unavailable",
+      "reason": "HTTPError"
+    }
+  }
+}
